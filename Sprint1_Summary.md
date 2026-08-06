@@ -19,4 +19,6 @@ Players should always feel drawn towards the next horizon.
 ✅ Trade complete
 🟡 Residents underway
 🟡 Port Meridian
+ - 🟢 Worldbuilding complete enough for Sprint 1
+ - 🟡 Session usability still to verify
 🟡 Session 1
