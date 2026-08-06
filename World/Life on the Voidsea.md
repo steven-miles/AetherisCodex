@@ -193,3 +193,11 @@ Children watch famous captains with admiration.
 Veteran sailors become noticeably uneasy when someone remarks that the Voidsea feels unusually quiet.
 
 The world should feel lived in long before the players decide to leave the safety of the trade routes.
+
+## Questions this raises
+
+- How do magical engines work?
+- How are currents discovered?
+- What lies beneath the Void?
+- Why do some currents change?
+- Why are some voyages impossible?

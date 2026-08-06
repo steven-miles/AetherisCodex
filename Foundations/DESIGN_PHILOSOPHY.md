@@ -7,6 +7,8 @@ If players discover one mystery, they should uncover three more.
 
 Knowledge is earned through exploration, never handed out.
 
+Knowledge is the greatest currency in Aetheris.
+
 ---
 
 ## The Horizon Rule
@@ -15,6 +17,9 @@ The most exciting place in Aetheris is always the place the players haven't reac
 Every port, island, and character should hint at something beyond the horizon.
 
 Players should constantly be making plans about where to sail next.
+
+"What does an ordinary person think when they see a skyship?"
+Wonder, excitement, wishing, hoping, longing... Imagine if that was me and I could go see over the horizon!
 
 ---
 
