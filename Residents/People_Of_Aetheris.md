@@ -19,6 +19,131 @@ Each resident should answer four questions:
 
 ---
 
+
+# Arthur
+
+## Role
+
+Owner of the Driftwrights.
+
+Master shipwright.
+
+Foreman.
+
+---
+
+## First Impression
+
+Arthur is a man in his mid-forties who looks as though he has spent his entire life working with his hands.
+
+His sleeves are almost always rolled up, his clothes carry the smell of fresh timber and sawdust, and he is rarely seen without a small splinter of wood between his teeth while he thinks.
+
+He is approachable, quick with a joke and treats almost everyone like they've known each other for years.
+
+That warmth disappears the moment someone's safety or livelihood is threatened.
+
+---
+
+## Personality
+
+Arthur is a craftsman before he is a businessman.
+
+Although he owns the Driftwrights, he spends every day working alongside his crew.
+
+He would rather pick up a hammer than stand behind a desk.
+
+He constantly teaches those around him, offering quiet advice and corrections without making anyone feel foolish.
+
+The younger Driftwrights simply call him "Chief."
+
+Not because he asks them to.
+
+Because he earned it.
+
+---
+
+## Background
+
+Arthur joined the Driftwrights as a child apprentice.
+
+Over decades he learned every aspect of salvaging, repairing and restoring ships.
+
+After the original founders passed away, Arthur gradually took ownership of the workshop.
+
+Most people in Port Meridian believe there is nobody alive who understands ships better than Arthur.
+
+---
+
+## Philosophy
+
+Arthur believes every ship deserves another voyage.
+
+He judges a vessel by what it could become rather than what it once was.
+
+His greatest satisfaction comes from watching a repaired ship leave the warehouse under its own power.
+
+---
+
+## Relationships
+
+### The Driftwrights
+
+Arthur sees the Driftwrights as family rather than employees.
+
+He expects hard work, honesty and respect.
+
+In return he protects his people fiercely.
+
+---
+
+### The Governor
+
+Arthur and the Governor share a professional respect.
+
+They do not always agree, but both understand the importance of the other's work in keeping Port Meridian functioning.
+
+---
+
+### Joshua
+
+Arthur quietly encourages Joshua's dreams of becoming a great navigator, even if he pretends otherwise.
+
+He often reminds him that every famous captain first had to learn how to look after a ship.
+
+---
+
+## Notable Habits
+
+- Chews on a small piece of wood while thinking.
+- Rarely stands still during a conversation.
+- Continues working while talking whenever possible.
+- Regularly offers advice to younger Driftwrights as he walks through the workshop.
+- Taps repaired timber with his knuckles to judge its quality by sound.
+
+---
+
+## Memorable Quote
+
+> "Well... you're either here to buy something..."
+
+*A pause as he looks over the party.*
+
+> "...or make my day complicated."
+
+---
+
+## Design Notes
+
+Arthur is intended to become one of the party's recurring allies throughout the Chronicle.
+
+He is not a quest giver.
+
+He is a mentor, craftsman and trusted friend whose respect must be earned rather than freely given.
+
+Players should leave conversations with Arthur feeling that they have spoken to someone who genuinely loves ships and the people who sail them.
+
+---
+
 # The Governor
 
 ## What everyone knows
