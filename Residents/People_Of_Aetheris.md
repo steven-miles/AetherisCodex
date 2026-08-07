@@ -76,7 +76,7 @@ Most people in Port Meridian believe there is nobody alive who understands ships
 
 ## Philosophy
 
-Arthur believes every ship deserves another voyage.
+Arthur believes every ship deserves another voyage. "She's got plenty of life left in her." "Be a shame to let good timber rot." "Look after her... she'll look after you."
 
 He judges a vessel by what it could become rather than what it once was.
 
