@@ -242,58 +242,82 @@ The harbour continues.
 Without another word.
 
 
-## Ordinary Residents
+# Ordinary Residents
 
 ## Thomas
 
-**Occupation**
-
-Dock Escort
-
----
-
-**Role in the World**
+**Occupation:** Dock Escort
 
 Thomas escorts newly arrived people safely from the harbour to the Governor's Hall.
 
-He has spent the past week guiding an increasing number of arrivals from other worlds into Port Meridian.
+He is patient, efficient and kind.
+
+He never rushes frightened people and naturally walks at the pace of the slowest traveller.
 
 To Thomas, the impossible has slowly become routine.
 
----
-
-**Personality**
-
-Patient.
-
-Efficient.
-
-Kind.
-
-Thomas never rushes frightened people.
-
-He walks at the pace of the slowest traveller and waits for everyone before moving on.
+**Design Note:** Thomas introduces Aetheris through quiet competence and reassurance.
 
 ---
 
-**Beliefs**
+## Edith
 
-Everyone deserves dignity, regardless of where they come from.
+**Occupation:** Registry Clerk
+
+Edith processes arrivals and departures through Port Meridian's administrative system.
+
+She is organised, busy and frequently ink-stained.
+
+She knows Thomas through work.
+
+A typical exchange is:
+
+Thomas:
+
+> "Busy?"
+
+Edith:
+
+> "Busier."
+
+Then both return to work.
+
+**Design Note:** Edith exists to make Port Meridian feel persistent rather than theatrical.
 
 ---
 
-**First Appearance**
+## Joshua
 
-The Tide Between Worlds
+**Occupation:** Cargo Worker
 
-Session 1
+Joshua moves cargo between the port and the surrounding districts.
 
----
+His work gives him practical knowledge of docks, yards, warehouses and old ships.
 
-**Design Notes**
+He is friendly, hard-working, curious and hopeful.
 
-Thomas exists to reassure players.
+### Ambition
 
-He demonstrates that Aetheris is built by ordinary people doing ordinary jobs with quiet competence.
+Joshua dreams of becoming a navigator.
 
-He introduces the world's kindness before it introduces its dangers.
+More than fame, he wants discovery.
+
+He wants people to one day sail a Current because he found it.
+
+When ships depart, he often pauses to watch.
+
+He imagines himself aboard one.
+
+### Relationship to the Players
+
+Joshua can become a recurring friendly face in Meridian.
+
+He may point the players toward their first ship.
+
+He may eventually be recruitable to their crew.
+
+None of this is guaranteed.
+
+His life continues whether the players recruit him or not.
+
+**Design Note:** Joshua mirrors the party: both begin unknown, both want discovery, and both are looking toward the horizon.

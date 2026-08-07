@@ -14,111 +14,65 @@ Players should leave the session wanting to discover what lies beyond the next h
 
 ---
 
-# Emotional Journey
+# Session Beats
 
-## Arrival
+## Beat 1 — Awakening
 
-Emotion:
+**Emotion:** Confusion.
 
-Confusion.
-
-The players awaken aboard a transport ship alongside other Voidmarked who have recently arrived from different worlds.
+The players awaken aboard a passenger vessel with other Voidmarked.
 
 They are frightened.
 
-The guards are not.
+The escorts are not.
 
----
+## Beat 2 — First Steps
 
-## Port Meridian
+**Emotion:** Wonder.
 
-Emotion:
+The players discover Port Meridian, skyships and the Void.
 
-Wonder.
+The city does not stop because they arrived.
 
-The players experience the world's greatest harbour for the first time.
+## Beat 3 — The Governor
 
-Life continues around them.
+**Emotion:** Concern and purpose.
 
-Ships arrive.
+The Governor reveals that an island has disappeared and that he has kept it quiet to protect trade.
 
-Ships depart.
+He gives them a direction, not an order.
 
-People work.
+## Beat 4 — Loose Ends
 
-Children stop to watch vessels leave for distant horizons.
+**Emotion:** Freedom.
 
----
+The players are released into Meridian with temporary accommodation, their own strange money and a Governor's token.
 
-## The Governor
+For the first time, nobody is guiding them.
 
-Emotion:
+## Beat 5 — Finding a Way Forward
 
-Unease.
+**Emotion:** Possibility and determination.
 
-Something is wrong.
+The players work out how they might reach the missing island.
 
-Entire islands have begun disappearing.
+They may gather rumours, meet captains, seek the Fortune Teller or explore the city.
 
-The Governor does not understand why.
+The idea that they may need their own ship should emerge naturally.
 
-Neither does anyone else.
+## Beat 6 — Claiming the Ship
 
----
+**Emotion:** Excitement.
 
-## The Fortune Teller
+The players acquire an old merchant vessel.
 
-Emotion:
+Combat is possible but not mandatory.
 
-Mystery.
+## Beat 7 — First Departure
 
-The players leave with more questions than answers.
+**Emotion:** Adventure.
 
-Nothing is confirmed.
-
-Everything is possible.
-
----
-
-## The Smugglers
-
-Emotion:
-
-Action.
-
-The players become involved in the world rather than simply observing it.
-
----
-
-## Their First Ship
-
-Emotion:
-
-Ownership.
-
-The ship is more than transportation.
-
-It is home.
-
-It represents freedom.
-
-Adventure.
-
-Possibility.
-
----
-
-## Departure
-
-Emotion:
-
-Excitement.
-
-The city slowly disappears behind them.
-
-The Voidsea stretches endlessly ahead.
-
-The Chronicle truly begins.
+The players leave Meridian, begin learning to sail, catch their first Current and see a distant island ahead.
 
 ---
 
@@ -127,10 +81,15 @@ The Chronicle truly begins.
 By the end of Session 1, players should have discovered:
 
 - This is not their world.
+- They are not alone.
 - Aetheris is beautiful.
-- Something is wrong.
-- Nobody has the answers.
 - The world does not revolve around them.
+- Something is wrong.
+- The Governor does not have all the answers.
+- Trade holds Aetheris together.
+- The missing island is secret.
+- Skyships represent freedom and possibility.
+- Problems can be solved in multiple ways.
 - Adventure waits beyond the horizon.
 
 ---
@@ -138,10 +97,12 @@ By the end of Session 1, players should have discovered:
 # Mysteries Introduced
 
 - Why are people arriving from other worlds?
-- What is the Voidmark?
-- Why are islands disappearing?
+- What are the Voidmarks?
+- Why did an island disappear?
+- Are the disappearances connected to the Voidmarked?
 - What lies beneath the Void?
-- Why did the Fortune Teller already know they were coming?
+- Why does the Fortune Teller already know about them?
+- Can the players ever return home?
 
 ---
 
@@ -149,35 +110,27 @@ By the end of Session 1, players should have discovered:
 
 ## Show first. Explain later.
 
-Whenever possible, allow players to observe the world before explaining it.
-
----
-
 ## Curiosity before exposition.
-
-Every answer should create another question.
-
----
 
 ## The world feels alive.
 
-Residents continue living their lives regardless of whether the players are watching.
+## The players are not heroes. Not yet.
 
----
+## Design problems, not solutions.
 
-## The players are not heroes.
+The ship is a problem to solve.
 
-Not yet.
+Combat is one possible answer.
 
-They earn that place through their actions.
+Negotiation, money, work, stealth and creativity are equally valid.
 
 ---
 
 ## End Goal
 
-Players should end Session 1 looking towards the horizon and asking:
+Players should finish Session 1 excited about the adventure ahead and asking:
 
-> "Where are we going first?"
+> "Where are we going next?"
 
 ---
 
@@ -190,15 +143,16 @@ Players should end Session 1 looking towards the horizon and asking:
 
 ### World
 
-- [Life on the Voidsea](../../../World/life_on_the_voidsea.md)
-- [Skyships](../../../World/skyships.md)
-- [Navigation & Currents](../../../World/navigation_and_currents.md)
-- [Great Currents](../../../World/great_currents.md)
+- [Life on the Voidsea](../../../World/Life%20on%20the%20Voidsea.md)
+- [Skyships](../../../World/Skyships.md)
+- [Navigation & Currents](../../../World/Navigation_and_currents.md)
+- [Great Currents](../../../World/The_Great_Currents.md)
 
 ### Residents
 
-Currently contained within:
+- [People of Aetheris](../../../Residents/People_Of_Aetheris.md)
 
-- World/People_Of_Aetheris.md
+### Project
 
-(Sprint 2 will split Residents into individual files.)
+- [World Bible](../../../WORLD_BIBLE.md)
+- [Documentation Standards](../../../DOCUMENTATION.md)

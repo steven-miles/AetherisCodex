@@ -16,27 +16,13 @@ Avoid large documents covering multiple unrelated topics.
 
 If a document becomes difficult to navigate, split it into smaller linked documents.
 
----
-
 ## README files are navigation.
 
-README files should not contain lore.
-
-Instead they should:
-
-- Introduce the folder.
-- Explain its purpose.
-- Link to the documents inside it.
-
----
+README files should introduce the folder, explain its purpose, and link to the documents inside it.
 
 ## Link related documents.
 
-Every document should finish with a **See Also** section linking to related topics.
-
-Readers should be able to naturally explore the world without searching.
-
----
+Every document should finish with a **See Also** section where useful.
 
 ## Separate canon from design.
 
@@ -44,49 +30,51 @@ Canon explains the world.
 
 Design explains why the world was written that way.
 
-When appropriate, include a **Design Notes** section.
-
 ---
 
-## Design before implementation.
+# Chronicle Session Files
 
-Chronicles should be built in layers.
+## DESIGN.md
 
-DESIGN.md
+Why the session exists.
 
-↓
+## SESSION_FLOW.md
 
-STORYBOARD.md
+How the session should feel and be presented.
 
-↓
+This combines the old Storyboard and Director Notes into one practical DM-facing document.
 
-SESSION.md
+Each beat may include:
 
-↓
+- Director's Intent
+- Emotional Journey
+- Camera
+- Scene
+- Suggested Performance
+- Resident Focus
+- Worldbuilding
+- Player Discovery
+- Questions Created
+- Important Reminders
+- Transition
 
-Encounter files
+## SESSION.md
 
-Each layer answers a different question.
+How the session works mechanically.
 
----
+Contains:
 
-# Naming
+- checks
+- encounters
+- combat options
+- social mechanics
+- treasure
+- milestones
+- mechanical contingencies
 
-Folders use Title Case.
+## Encounter files
 
-Markdown files use lowercase_with_underscores.md unless they are standard filenames such as README.md.
-
-Examples:
-
-overview.md
-
-life.md
-
-trade.md
-
-navigation_and_currents.md
-
-great_currents.md
+Used when a particular encounter needs enough detail to deserve its own document.
 
 ---
 
@@ -96,4 +84,8 @@ The world is the primary product.
 
 Chronicles are stories that take place within that world.
 
-The repository should always prioritise reusable worldbuilding over campaign-specific content.
+The repository should prioritise reusable worldbuilding over Chronicle-specific content.
+
+Documentation exists to help the world be built and run.
+
+If a structure creates unnecessary friction, simplify it.

@@ -41,3 +41,30 @@ The following are intentionally deferred until the codex foundation is stable:
 - player-specific hooks;
 - encounter balance;
 - mandatory campaign progression.
+
+## Ship Rules
+Status: Planned
+Priority: High
+
+## Gameplay
+
+Notes:
+- Uses D&D as the underlying engine.
+- Focus on ownership, upgrades and crew rather than replacing core 5e mechanics.
+
+- Crew morale
+- Reputation
+- Salvage
+- Ship upgrades
+
+## World
+
+- More Port Meridian residents
+- Nation flags
+- Navigator Guild
+
+## Chronicle
+
+- Session 2
+- Fortune Teller
+- Missing Island
