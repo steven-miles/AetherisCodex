@@ -1,21 +1,59 @@
-# Encounter
+# Encounter 001 - Claiming the Sea Bird
 
-## Scene Setup
+## Purpose
 
-## First Impression
+This encounter introduces the players to conflict in Aetheris.
 
-## NPC Goals
+The objective is not to defeat enemies.
 
-## Player Goals
+The objective is to earn ownership of the Sea Bird.
 
-## Possible Solutions
+Combat is only one possible solution.
 
-## Escalation
+Negotiation, persuasion, intimidation, clever thinking and compromise are equally valid.
 
-## Combat
+If combat occurs, it should feel like a disagreement that escalated rather than a planned battle.
 
-## Morale
+---
 
-## Aftermath
+## Emotional Journey
 
-## Consequences
+Curiosity
+
+↓
+
+Opportunity
+
+↓
+
+Tension
+
+↓
+
+Choice
+
+↓
+
+Ownership
+
+---
+
+## Success
+
+The players leave with the Sea Bird.
+
+How they achieve this is entirely their story.
+
+---
+
+## Failure
+
+Failure should never end the Chronicle.
+
+If the players fail today...
+
+The Driftwrights may make another offer.
+
+Another ship may become available.
+
+The story moves forward.
