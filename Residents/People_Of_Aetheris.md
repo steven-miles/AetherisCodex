@@ -1,6 +1,8 @@
-# Residents of Aetheris
+# People of Aetheris
 
 ## Purpose
+
+This document introduces the first notable residents of Aetheris.
 
 Residents are more than non-player characters.
 
@@ -10,10 +12,10 @@ Every resident should feel as though they belong to the world rather than the ca
 
 Each resident should answer four questions:
 
-* **What everyone knows** – Objective truths that any local would recognise.
-* **What people believe** – Rumours, assumptions and common opinions.
-* **What nobody knows** – The mystery that keeps the resident interesting.
-* **What they represent** – The idea or theme they embody within Aetheris.
+- **What everyone knows** – Objective truths that any local would recognise.
+- **What people believe** – Rumours, assumptions and common opinions.
+- **What nobody knows** – The mystery that keeps the resident interesting.
+- **What they represent** – The idea or theme they embody within Aetheris.
 
 ---
 
@@ -165,3 +167,76 @@ Then changes the subject.
 
 Not every question in Aetheris is meant to be answered.
 
+---
+
+# The Dockmaster
+
+## What everyone knows
+
+The Dockmaster oversees every arrival and departure in Port Meridian.
+
+Nothing enters or leaves the harbour without passing through their hands.
+
+They know every berth, every schedule and almost every ship that regularly visits Meridian.
+
+The harbour runs because they do.
+
+---
+
+## What people believe
+
+Some say the Dockmaster has never made a mistake.
+
+Others insist they can recognise a ship by its silhouette alone.
+
+Many captains claim they know the harbour better than anyone alive.
+
+Nobody argues.
+
+---
+
+## What nobody knows
+
+The Dockmaster has never wished to become a captain.
+
+Adventure never appealed to them.
+
+They found happiness in certainty.
+
+While others chase distant horizons, they find satisfaction in ensuring every voyage begins and ends safely.
+
+When asked why they never sailed, they simply reply:
+
+> "I see the whole world every day."
+
+---
+
+## What they represent
+
+**Reliability.**
+
+Civilisation only functions because ordinary people quietly do extraordinary jobs.
+
+---
+
+## First Impression
+
+The harbour is alive with noise.
+
+Engines hum.
+
+Dockworkers shout.
+
+Merchants argue over cargo.
+
+Then one calm voice cuts cleanly through the chaos.
+
+> "Berth Twelve."
+
+The shouting stops.
+
+People move.
+
+The harbour continues.
+
+Without another word.
