@@ -178,3 +178,27 @@ They earn that place through their actions.
 Players should end Session 1 looking towards the horizon and asking:
 
 > "Where are we going first?"
+
+---
+
+## Related World Documents
+
+### Locations
+
+- [Port Meridian Overview](../../../Locations/Port%20Meridian/overview.md)
+- [Life in Port Meridian](../../../Locations/Port%20Meridian/life.md)
+
+### World
+
+- [Life on the Voidsea](../../../World/life_on_the_voidsea.md)
+- [Skyships](../../../World/skyships.md)
+- [Navigation & Currents](../../../World/navigation_and_currents.md)
+- [Great Currents](../../../World/great_currents.md)
+
+### Residents
+
+Currently contained within:
+
+- World/People_Of_Aetheris.md
+
+(Sprint 2 will split Residents into individual files.)

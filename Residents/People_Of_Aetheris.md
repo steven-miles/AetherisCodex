@@ -240,3 +240,60 @@ People move.
 The harbour continues.
 
 Without another word.
+
+
+## Ordinary Residents
+
+## Thomas
+
+**Occupation**
+
+Dock Escort
+
+---
+
+**Role in the World**
+
+Thomas escorts newly arrived people safely from the harbour to the Governor's Hall.
+
+He has spent the past week guiding an increasing number of arrivals from other worlds into Port Meridian.
+
+To Thomas, the impossible has slowly become routine.
+
+---
+
+**Personality**
+
+Patient.
+
+Efficient.
+
+Kind.
+
+Thomas never rushes frightened people.
+
+He walks at the pace of the slowest traveller and waits for everyone before moving on.
+
+---
+
+**Beliefs**
+
+Everyone deserves dignity, regardless of where they come from.
+
+---
+
+**First Appearance**
+
+The Tide Between Worlds
+
+Session 1
+
+---
+
+**Design Notes**
+
+Thomas exists to reassure players.
+
+He demonstrates that Aetheris is built by ordinary people doing ordinary jobs with quiet competence.
+
+He introduces the world's kindness before it introduces its dangers.

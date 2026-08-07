@@ -44,3 +44,22 @@ The immediate focus is establishing the minimum world foundations and bringing P
 2. Read `DESIGN_PHILOSOPHY.md`.
 3. Check `BACKLOG.md` for the next piece of work.
 4. Record durable decisions in the repository and commit them.
+
+## Repository Structure
+
+```text
+World/
+Locations/
+Guilds/
+Factions/
+Chronicles/
+```
+
+The world is intentionally separated from the stories that take place within it.
+
+Chronicles reference the world rather than redefining it.
+
+For documentation conventions see:
+
+- [Documentation Standards](DOCUMENTATION.md)
+```
