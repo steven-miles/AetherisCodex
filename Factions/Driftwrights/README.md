@@ -263,3 +263,47 @@ They are part of Port Meridian's ecosystem.
 Players should feel comfortable returning here throughout the Chronicle.
 
 This is where ships come to begin their second lives.
+
+## The Launch Bell
+
+Every ship that leaves the Driftwright warehouse is given the same farewell.
+
+Once the final inspection is complete...
+
+Once the braces have been removed...
+
+Once the engine begins to hum...
+
+The Launch Bell is rung.
+
+Only once.
+
+The sound carries across the warehouse district and out over the Void.
+
+To most people, it is simply another ship beginning its next voyage.
+
+To the Driftwrights...
+
+It is the sound of honest work finished.
+
+No speeches are given.
+
+No applause follows.
+
+Everyone simply pauses for a moment.
+
+Then returns to work.
+
+Because there is always another ship waiting.
+
+---
+
+By tradition, the final ring belongs to the person who will command the ship.
+
+When the Sea Bird leaves the warehouse...
+
+The Foreman quietly offers the bell rope to the party.
+
+Whether they understand the tradition or not...
+
+The choice is theirs.

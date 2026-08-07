@@ -2,26 +2,41 @@
 
 They do not want to die.
 
-If they are winning
+---
 
-→ Fight confidently.
 
-If evenly matched
+If the leader is defeated...
 
-→ Look for negotiation.
+The others stop fighting.
 
-If losing
+---
 
-→ Retreat.
+If someone is unconscious...
 
-If leader falls
+Another Driftwright drags them to safety.
 
-→ Morale check.
+---
 
-If offered money
+If offered a fair deal...
 
-→ Listen.
+Negotiation immediately becomes possible.
 
-If offered work
+---
 
-→ Consider it.
+If someone falls overboard...
+
+Two Driftwrights immediately stop fighting to throw a rope.
+
+---
+
+If the players damage the Sea Bird...
+
+Everyone reacts.
+
+Even if they were negotiating.
+
+---
+
+If the players protect one of the younger Driftwrights...
+
+The older members hesitate.
