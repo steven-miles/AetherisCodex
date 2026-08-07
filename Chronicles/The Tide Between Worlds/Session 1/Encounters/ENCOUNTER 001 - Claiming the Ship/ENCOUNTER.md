@@ -119,3 +119,21 @@ The Driftwrights may make another offer.
 Another ship may become available.
 
 The story moves forward.
+
+## Canon Changes
+
+After running this encounter, update:
+
+☐ Sea Bird ownership
+
+☐ Arthur relationship
+
+☐ Driftwright relationship
+
+☐ Joshua relationship
+
+☐ Governor relationship
+
+☐ Port Meridian rumours
+
+☐ Chronicle Log
