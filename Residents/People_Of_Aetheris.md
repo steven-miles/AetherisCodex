@@ -371,17 +371,226 @@ Without another word.
 
 ## Thomas
 
-**Occupation:** Dock Escort
+**Occupation:** Dockmaster of Port Meridian
 
-Thomas escorts newly arrived people safely from the harbour to the Governor's Hall.
+**Age:** Early-to-mid 40s
 
-He is patient, efficient and kind.
+Thomas oversees arrivals, departures and the everyday operation of Port Meridian's docks.
 
-He never rushes frightened people and naturally walks at the pace of the slowest traveller.
+He is often one of the first officials encountered by newly arrived Voidmarked, though this is simply a consequence of his job rather than a ceremonial role.
 
-To Thomas, the impossible has slowly become routine.
+Thomas is:
 
-**Design Note:** Thomas introduces Aetheris through quiet competence and reassurance.
+- Patient.
+- Efficient.
+- Practical.
+- Kind.
+- Calm under pressure.
+- Protective of the people passing through his docks.
+
+He has seen enough unusual arrivals that very little surprises him anymore.
+
+He does not treat the Voidmarked as chosen heroes, dangerous anomalies or curiosities.
+
+They are people who have arrived somewhere they do not understand.
+
+His job is to help process what happens next.
+
+---
+
+### Personality
+
+Thomas is approachable but busy.
+
+He speaks plainly.
+
+He does not waste words.
+
+He has little interest in unnecessary ceremony and tends to deal with whatever problem is directly in front of him.
+
+When something goes wrong on the docks, Thomas does not panic.
+
+He starts solving it.
+
+His kindness is practical rather than sentimental.
+
+If someone needs food:
+
+He finds food.
+
+If someone needs somewhere to sleep:
+
+He points them towards the barracks.
+
+If a damaged vessel arrives:
+
+He starts organising repairs, medical assistance and reports.
+
+---
+
+### The Voidmarked
+
+Thomas regularly encounters newly arrived Voidmarked.
+
+He understands that they may be:
+
+- Confused.
+- Frightened.
+- Excited.
+- Angry.
+- Overwhelmed.
+- Completely unfamiliar with Aetheris.
+
+He gives them room to react.
+
+He answers reasonable questions when he has time.
+
+If he does not know something:
+
+He says so.
+
+Thomas does not know why the Voidmarked arrive.
+
+He does not pretend otherwise.
+
+---
+
+### Relationship With Port Meridian
+
+Thomas is a familiar figure around the harbour.
+
+Captains know him.
+
+Dockworkers know him.
+
+Clerks know him.
+
+He has earned trust through consistency rather than authority.
+
+He understands the rhythms of the harbour extremely well and can usually tell when something is wrong before anyone has formally reported it.
+
+Thomas works closely with the administrative side of Meridian but remains most comfortable on the docks.
+
+---
+
+### Captain Vex Sterling
+
+Thomas knows Captain Vex Sterling professionally.
+
+Vex is one of many captains whose vessels pass through Port Meridian.
+
+When Vex's damaged passenger vessel arrives following the Raid on the Current, Thomas immediately recognises that something unusual has happened.
+
+Vex's report gives Thomas his first information about the player characters.
+
+Thomas does not automatically accept someone else's judgement of them.
+
+He forms his own impression once they meet.
+
+---
+
+### Session 1
+
+Thomas first appears when the passenger vessel reaches Port Meridian.
+
+He is **not aboard the vessel during the journey or the Raid on the Current**.
+
+When the damaged ship docks, his first concern is:
+
+1. The passengers.
+2. The injured.
+3. The condition of the vessel.
+4. Understanding what happened.
+5. Processing the new arrivals.
+
+Captain Vex explains the raid.
+
+If the party helped defend the vessel, Thomas learns about it here.
+
+He then directs the Voidmarked through the normal registration process.
+
+---
+
+### Edith
+
+Thomas knows Edith through their work processing arrivals.
+
+Their relationship is familiar and efficient.
+
+A typical exchange:
+
+> Thomas: "Busy?"
+>
+> Edith: "Busier."
+
+Neither needs to elaborate.
+
+There is work to do.
+
+---
+
+### The Governor
+
+Thomas is part of the ordinary chain through which information reaches the Governor's office.
+
+He does not personally decide that the player characters should meet the Governor.
+
+Following the Raid on the Current, Captain Vex's report moves through the normal administrative process.
+
+Thomas later receives word that the Governor wants to speak with the party.
+
+His delivery is characteristically understated:
+
+> "Change of plan."
+
+[Pause]
+
+> "Governor wants to see you."
+
+If asked why:
+
+> "Captain told us what happened."
+
+A small shrug.
+
+> "Seems somebody thought it was worth mentioning."
+
+---
+
+### Harbour Traditions
+
+Thomas has worked around the harbour long enough that its traditions are second nature.
+
+He acknowledges departing vessels and their Launch Bells without making a spectacle of them.
+
+When the party eventually departs aboard the Sea Bird, Thomas does not give them a grand farewell.
+
+He checks whatever practical detail needs checking.
+
+> "Looks good."
+
+Then he gets back to work.
+
+Another ship will need him in five minutes.
+
+---
+
+### Running Thomas
+
+Thomas should make Port Meridian feel competent.
+
+He is not:
+
+- A lore dispenser.
+- A quest giver.
+- A mysterious guide.
+- Secretly connected to every important event.
+
+He is a good man who knows his job.
+
+That is enough to make him useful.
+
+If the players grow attached to him, allow that relationship to develop naturally.
 
 ---
 
@@ -446,3 +655,19 @@ None of this is guaranteed.
 His life continues whether the players recruit him or not.
 
 **Design Note:** Joshua mirrors the party: both begin unknown, both want discovery, and both are looking toward the horizon.
+
+---
+
+## Captain Vex Sterling
+
+**Occupation:** Passenger Vessel Captain
+
+An experienced working captain who transports passengers and newly arrived Voidmarked to Port Meridian.
+
+Vex is practical, competent and primarily concerned with the safety of the vessel and its passengers.
+
+During Session 1, Vex commands the passenger vessel attacked during the Raid on the Current.
+
+After reaching Port Meridian, Vex reports what happened to the dock authorities.
+
+Vex is not currently intended to be a major recurring character.

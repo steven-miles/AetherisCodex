@@ -1,227 +1,139 @@
-# Encounter 001 - Raid on the Current
+# Encounter 002 - Claiming the Sea Bird
 
-> "They expected frightened passengers.
->
-> They did not expect the six who had just woken among them."
+## Purpose
 
----
+This encounter introduces the players to conflict in Aetheris.
 
-# Overview
+The objective is not to defeat enemies.
 
-Shortly after awakening aboard a passenger vessel bound for Port Meridian, the party experiences their first danger in Aetheris.
+The objective is to earn ownership of the Sea Bird.
 
-A desperate group of scavengers has heard rumours about the arrival of people from other worlds.
+Combat is only one possible solution.
 
-Some Voidmarked arrive carrying strange objects, unfamiliar materials and possessions that can fetch considerable prices.
+Negotiation, persuasion, intimidation, clever thinking and compromise are equally valid.
 
-The scavengers believe they have found an easy target.
-
-They are wrong.
+If combat occurs, it should feel like a disagreement that escalated rather than a planned battle.
 
 ---
 
-# Purpose
+## Emotional Journey
 
-This encounter serves several purposes:
+Curiosity
 
-- Give the players an early opportunity to test their characters.
-- Introduce combat in Aetheris.
-- Reveal the Void during a moment of immediate danger.
-- Demonstrate that violence does not always need to end in death.
-- Establish the party as unusually capable new arrivals.
-- Give the passenger ship's Captain reason to report their actions upon arrival.
-- Provide a natural reason for the Governor to take an interest in this particular group.
+↓
 
-The encounter should be exciting without being highly dangerous.
+Opportunity
 
-This is an introduction.
+↓
 
-Not a test of survival.
+Tension
 
----
+↓
 
-# Location
+Choice
 
-The encounter takes place aboard a passenger vessel travelling along one of the major Currents approaching Port Meridian.
+↓
 
-The vessel carries:
-
-- The player characters.
-- Other recently arrived Voidmarked.
-- Ordinary passengers.
-- Crew.
-- A small number of guards.
-- The Captain.
-
-The passenger vessel is not expecting trouble.
-
-Attacks along this Current are uncommon.
-
-Competent pirates know that attacking vessels this close to Port Meridian is extremely risky.
-
-The scavengers are desperate enough to try anyway.
+Ownership
 
 ---
 
-# The Scavengers
+## First Contact
 
-The attackers are not professional pirates.
+The players initially speak with one of the younger Driftwrights.
 
-They are desperate scavengers looking for an opportunity.
+Arthur does not immediately involve himself.
 
-Rumours have spread that people from other worlds are appearing in Aetheris carrying strange and potentially valuable possessions.
+He continues working while quietly listening to the conversation.
 
-The scavengers believe the passenger vessel represents easy money.
-
-Their plan is simple:
-
-1. Grapple onto the vessel.
-2. Frighten the passengers.
-3. Take anything valuable.
-4. Leave before authorities can respond.
-
-They do not expect serious resistance.
-
-They do not intend to kill anyone.
-
-Their entire plan relies upon intimidation and an easy escape.
-
-Once they realise how badly they have misjudged the situation, survival becomes more important than loot.
+If negotiations become lengthy or tensions begin to rise, Arthur steps in naturally.
 
 ---
 
-# Encounter Tone
+## Arthur
 
-The encounter begins with:
+Arthur is in his mid-forties.
 
-**Confusion → Shock → Danger → Action**
+He worked his way through the Driftwrights from childhood and eventually became their owner.
 
-And should end with:
+He is respected because he has earned that respect.
 
-**Victory → Relief → Wonder**
+He speaks like an experienced tradesman.
 
-The players have barely had time to understand where they are.
+Friendly.
 
-Now someone is attacking them.
+Always ready with a joke.
 
----
+But when the situation becomes serious...
 
-# Combat Philosophy
+Everyone notices.
 
-This is a winnable opening encounter for six Level 5 characters.
+He often chews on a small piece of wood while thinking.
 
-The scavengers should:
+The younger Driftwrights simply call him:
 
-- Threaten.
-- Shove.
-- Grapple.
-- Fight defensively when threatened.
-- Attempt to steal possessions.
-- Protect one another.
-- Retreat when clearly beaten.
-
-They should not:
-
-- Execute unconscious characters.
-- Attack surrendered characters.
-- Deliberately slaughter civilians.
-- Fight until every scavenger is dead.
-- Behave like disciplined soldiers.
-
-Their confidence should visibly collapse as the encounter progresses.
+"Chief."
 
 ---
 
-# The Passenger Crew
+## Arthur's Introduction
 
-The crew are responsible for keeping the vessel under control.
+Arthur appears naturally from behind the Sea Bird.
 
-They are not adventurers.
+He wipes his hands on an old cloth.
 
-During the raid their priorities are:
+Looks first at the Governor's token.
 
-1. Protect the passengers.
-2. Keep the ship travelling safely along the Current.
-3. Prevent the scavengers reaching vulnerable areas of the vessel.
-4. Support the guards where possible.
+Then at the party.
 
-The crew should not overshadow the players during combat.
+Then smiles.
 
----
+> "Well..."
 
-# The Guards
+> "You're either here to buy something..."
 
-The vessel carries a small number of guards.
+(Pause)
 
-They attempt to contain the initial boarding while the crew move passengers below deck.
+> "...or make my day complicated."
 
-The guards are quickly stretched thin.
-
-This creates the opportunity for the players to intervene.
-
-They do not order the players to fight.
-
-They ask for help.
+Continue the conversation naturally from there.
 
 ---
 
-# Victory
+## Success
 
-The party does not need to kill the scavengers.
+The players leave with the Sea Bird.
 
-Victory occurs when the scavengers realise the raid has failed and retreat.
-
-Possible causes include:
-
-- Enough scavengers being defeated.
-- Their leader ordering a retreat.
-- The boarding route becoming unusable.
-- The party frightening them into leaving.
-- The scavengers being convinced surrender is safer.
-- Any unexpected player solution that reasonably ends the attack.
-
-Reward creativity.
+How they achieve this is entirely their story.
 
 ---
 
-# Retreat
+## Failure
 
-Once the scavengers realise they have badly underestimated the passengers, their goal changes.
+Failure should never end the Chronicle.
 
-They no longer care about loot.
+If the players fail today...
 
-They want to escape.
+The Driftwrights may make another offer.
 
-They:
+Another ship may become available.
 
-- Retreat across the gangplank.
-- Swing back using the grappling ropes.
-- Drag injured companions with them.
-- Cut lines connecting the vessels.
-- Attempt to pull their ship away.
+The story moves forward.
 
-The players decide whether to allow them to leave.
+## Canon Changes
 
----
+After running this encounter, update:
 
-# Aftermath
+☐ Sea Bird ownership
 
-Once the scavengers retreat, the passenger vessel continues toward Port Meridian.
+☐ Arthur relationship
 
-The injured are treated.
+☐ Driftwright relationship
 
-The crew assess the damage.
+☐ Joshua relationship
 
-The Captain speaks with the guards and learns what the newly arrived Voidmarked did.
+☐ Governor relationship
 
-The party finally has time to process both the attack and what they saw outside the vessel.
+☐ Port Meridian rumours
 
-Upon reaching Port Meridian, the Captain reports the incident to the dock authorities.
-
-This is where Thomas first enters the story.
-
-The report eventually reaches the Governor.
-
-The Governor does not summon the party because they are heroes.
-
-He now simply has reason to believe that these particular new arrivals may be unusually capable.
+☐ Chronicle Log

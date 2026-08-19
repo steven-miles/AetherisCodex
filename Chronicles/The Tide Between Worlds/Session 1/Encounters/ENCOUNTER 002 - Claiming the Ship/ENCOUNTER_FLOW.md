@@ -1,723 +1,1199 @@
-# Encounter 001 - Raid on the Current
-## Encounter Flow
-
-> This document combines narration, encounter beats and director notes.
->
-> It is not a rigid script.
->
-> Let the players determine how the battle unfolds.
+# Encounter 002 – Claiming the Sea Bird
 
 ---
 
-# Beat 1 - Something Is Wrong
+# Beat 1 – Arrival at the Driftwright Warehouse
 
 ## Purpose
 
-Interrupt the relative safety of the awakening.
+Introduce the Driftwrights as skilled craftsmen rather than criminals.
 
-The players should immediately understand that something unexpected has happened.
+Allow the players to take in the atmosphere of the warehouse before meeting Arthur.
 
----
+Establish that this is a place of work, not a battlefield.
 
-## Scene
-
-The party is still below deck.
-
-They have only recently awakened.
-
-Around them are other confused passengers and newly arrived Voidmarked.
-
-Members of the ship's crew move through the hold, checking that people are awake and attempting to answer questions where they can.
-
-The party has barely begun to understand where they are.
-
-Then—
-
-**BANG.**
-
-Something strikes the ship.
+The Sea Bird should immediately become the visual centrepiece of the encounter.
 
 ---
 
 ## Suggested Narration
 
-> "The ship suddenly lurches beneath you."
+Joshua leads you away from the busy streets of Port Meridian, the sounds of the harbour slowly fading behind you.
 
-[Pause]
+The buildings become more practical here.
 
-> "Something heavy strikes the hull."
+Warehouses replace taverns.
 
-> "Hard."
+The smell of fresh timber hangs in the air.
 
-A few passengers stumble.
+Eventually, Joshua stops outside a large timber building. It looks old, but well cared for. Thick wooden doors stand open, revealing only a small office beyond.
 
-Someone screams.
+He smiles.
 
-Above you—
+*"This is the place."*
 
-> "Boots."
+*"If anyone knows old ships..."*
 
-> "Running."
+*"It's the Driftwrights."*
 
-Then shouting.
+As you step inside, the office is quiet.
 
-Another impact.
+Ledgers sit stacked neatly on shelves.
 
-**BANG.**
+Rolled charts fill one corner.
 
-This time closer.
+Mounted high above the doorway hangs an old wooden figurehead, weathered by decades of sea air. Time has stripped away its paint, and one eye has long since disappeared.
 
-The timber groans.
+Beyond the office...
 
-The crew exchange looks.
+The warehouse opens before you.
 
-Something is wrong.
+The first thing that hits you isn't what you see.
+
+It's what you hear.
+
+Hammers strike metal.
+
+A saw cuts steadily through timber.
+
+Someone laughs somewhere deeper inside the workshop.
+
+Chains creak overhead.
+
+Workers move confidently between stacks of reclaimed planks and neatly organised tools, barely looking where they step.
+
+The smell of sawdust, tar and hot metal fills the air.
+
+No one stops working simply because you've arrived.
+
+Across the warehouse, resting on heavy timber supports and surrounded by scaffolding...
+
+...stands an ageing merchant vessel.
+
+Her sails are neatly folded beside her.
+
+Fresh timber contrasts against older weathered planks along her hull.
+
+Her magical engine is missing, leaving an empty cradle beneath her deck where it will eventually be reinstalled.
+
+She is clearly not ready to sail.
+
+But...
+
+She is close.
+
+Nearby, another ship sits in a far worse state.
+
+Larger.
+
+Older.
+
+Its ribs are exposed.
+
+Its deck long gone.
+
+Workers carefully remove beams and fittings, placing each piece into organised stacks.
+
+One of them pats an old plank before carrying it away.
+
+It feels less like destruction...
+
+...and more like preservation.
 
 ---
 
 ## Director's Notes
 
-Do not explain what has happened immediately.
-
-Let the players react.
+Allow the players time to explore.
 
 They may:
 
-- Ask the crew what is happening.
-- Attempt to look outside.
-- Ready weapons.
-- Protect other passengers.
-- Continue trying to understand where they are.
+- Inspect the Sea Bird.
+- Look around the workshop.
+- Speak with individual Driftwrights.
+- Examine the dismantled vessel.
+- Ask Joshua questions.
 
-The crew do not yet have answers.
+Do not introduce Arthur immediately.
 
-They begin moving passengers further into the hold.
+He is somewhere within the workshop, continuing his work.
+
+The Driftwrights should acknowledge the party politely if spoken to, but nobody seems particularly surprised by visitors.
+
+The warehouse should feel lived in, busy and welcoming.
+
+The players are entering somebody else's workplace.
+
+Treat it that way.
 
 ---
 
-# Beat 2 - The Call For Help
+## Optional Dialogue
+
+### Joshua
+
+*"I told you they'd know ships."*
+
+*"If anyone can help us..."*
+
+*"It's these lot."*
+
+---
+
+### Passing Driftwright
+
+Without stopping his work.
+
+*"Watch your step."*
+
+*"Fresh varnish."*
+
+---
+
+### Another Worker
+
+Calling across the workshop.
+
+*"Heads!"*
+
+A suspended timber beam swings slowly overhead.
+
+Everyone ducks without even looking.
+
+Clearly...
+
+This happens often.
+
+
+# Beat 2 – First Contact
 
 ## Purpose
 
-Give the players agency.
+Transition responsibility from Joshua to the Driftwrights.
 
-Nobody assumes they are adventurers.
+Allow the players to begin interacting naturally with the workshop before Arthur enters.
 
-Nobody orders them to fight.
+Establish that Joshua already knows the Driftwrights and is comfortable here.
 
-They choose.
-
----
-
-## Scene
-
-The hatch opens.
-
-A member of the ship's guard appears.
-
-They're breathing heavily.
-
-Behind them comes shouting from the deck.
-
-> "Boarders!"
-
-They look towards the crew.
-
-> "Get everyone below!"
-
-Then they notice the newly arrived passengers.
-
-A moment of hesitation.
-
-> "If any of you know how to handle yourselves..."
-
-Another crash from above.
-
-> "...we could use the help."
-
-The guard turns back towards the deck.
-
-> "Otherwise, stay down here."
-
-And they're gone.
-
----
-
-## Director's Notes
-
-Do not force the players upstairs.
-
-The invitation is enough.
-
-The players may:
-
-- Immediately help.
-- Prepare first.
-- Ask questions.
-- Protect civilians.
-- Remain below.
-- Attempt something unexpected.
-
-The raid continues regardless.
-
-The players determine how they respond.
-
----
-
-# Beat 3 - First Sight Of The Void
-
-## Purpose
-
-Reveal Aetheris during action rather than exposition.
-
-This should be the party's first true understanding that they are no longer in their own world.
+Arthur remains in the background.
 
 ---
 
 ## Suggested Narration
 
-When the first player reaches the deck:
+As you continue taking in the workshop, Joshua smiles to himself.
 
-> "You climb through the hatch..."
+*"Never gets old..."* he says quietly.
 
-> "...and the noise hits you."
+A younger Driftwright carrying a bundle of timber spots him.
 
-[Pause]
+A grin spreads across their face.
 
-> "Shouting."
+*"Joshua!"*
 
-> "Boots hammering against timber."
+The two exchange a quick handshake before the worker nods towards the Sea Bird.
 
-> "Steel leaving scabbards."
+*"Thought you'd finally signed on somewhere."*
 
-> "Ropes pulled tight."
+Joshua laughs.
 
-A second vessel hangs alongside yours.
+*"Not yet."*
 
-Close enough that you can see the faces of the people aboard it.
+He glances back towards you.
 
-> "Thick ropes stretch between the two ships."
+*"These lot are looking for a ship."*
 
-> "Heavy hooks have buried themselves into the railings."
+The worker raises an eyebrow.
 
-A crude gangplank connects the vessels.
+*"They're ambitious then."*
 
-Several figures are already crossing.
+Joshua chuckles before looking back to the party.
 
-Then—
+*"I'll leave you with them."*
 
-> "Beyond them..."
+*"Chief's around somewhere..."*
 
-[Pause]
+*"You'll know when he decides to get involved."*
 
-> "...there is no ocean."
+Without another word, Joshua slips naturally into helping move a crate that another worker is struggling with.
 
-Long pause.
+Nobody asked him to.
 
-> "There is no water at all."
+He simply joins in.
 
-> "Beneath both ships..."
+It feels like he's done it a hundred times before.
 
-> "...an endless black Void stretches away beneath the world."
+The workshop carries on around you.
 
-Allow that image to sit for a moment.
+No one is waiting for your next move.
 
-Then movement.
+The Driftwrights simply assume that if you've come here...
 
-> "One of the figures grabs a rope connecting the vessels."
+...you've come here for a reason.
 
-> "They leap."
 
-> "Swinging across that impossible drop..."
-
-> "...and land hard on the deck."
-
-They look towards you.
-
-Their expression changes.
-
-They clearly weren't expecting resistance.
-
----
-
-## Transition
-
-Roll initiative.
-
----
-
-# Beat 4 - The Raid
+# Encounter Beat 3 – Arthur
 
 ## Purpose
 
-Give the players room to experiment with their Level 5 characters.
+Introduce Arthur naturally.
 
-Combat should feel dynamic without being highly dangerous.
+Demonstrate why the Driftwrights respect him without anyone needing to explain it.
 
----
-
-## Starting Situation
-
-The scavengers have already begun boarding.
-
-The passenger ship's guards are attempting to contain them.
-
-Crew members are moving civilians below deck while others keep the vessel under control.
-
-The scavengers expect frightened passengers.
-
-They have not planned for six experienced combatants.
-
----
-
-## Battlefield
-
-The environment includes:
-
-- Both ships.
-- A crude gangplank.
-- Grappling ropes.
-- Railings.
-- Rigging.
-- Cargo crates.
-- Deck structures.
-- Ship equipment.
-- The open Void between and beneath the vessels.
-
-Describe these things.
-
-Do not prescribe their uses.
-
-Let the players invent solutions.
-
----
-
-## Crossing Between Ships
-
-Characters may attempt to cross using:
-
-- The gangplank.
-- Grappling ropes.
-- Rigging.
-- Magic.
-- Flight.
-- Teleportation.
-- Any reasonable method they invent.
-
-Resolve unusual actions using appropriate checks where necessary.
-
-The Void should feel dangerous.
-
-Creativity should not feel punished.
-
----
-
-## Crew During Combat
-
-The crew concentrate on passengers and the vessel.
-
-They do not suddenly become combatants simply because initiative has started.
-
-Their actions should mostly remain in the background unless the players interact with them.
-
----
-
-## Guards During Combat
-
-The guards hold off scavengers where possible.
-
-Their purpose is to make the situation believable, not win the encounter for the party.
-
-Keep their actions simple.
-
-The players should remain the focus.
-
----
-
-# Beat 5 - The Scavengers Realise Their Mistake
-
-## Purpose
-
-Change the emotional direction of the battle.
-
-The scavengers entered expecting frightened civilians.
-
-They have encountered six experienced combatants.
-
----
-
-## Director's Notes
-
-The scavengers begin confident.
-
-They shout demands.
-
-They threaten passengers.
-
-They expect compliance.
-
-Then the players start using their abilities.
-
-Let the scavengers react.
-
-An impressive spell might produce:
-
-> "What the hells was that?!"
-
-Another scavenger:
-
-> "You said they were passengers!"
-
-A response from somewhere across the deck:
-
-> "THEY ARE PASSENGERS!"
-
-The scavengers have made a terrible mistake.
-
-Allow some humour in the moment.
-
----
-
-## Morale
-
-As the battle turns against them:
-
-- Wounded scavengers move towards escape routes.
-- Scavengers begin protecting injured allies.
-- Confidence disappears.
-- Attacks become defensive.
-- Loot stops mattering.
-- Escape becomes the priority.
-
-They are no longer trying to win.
-
-They are trying to survive.
-
----
-
-# Beat 6 - Retreat
-
-## Purpose
-
-Establish immediately that victory in Aetheris does not require exterminating every enemy.
-
----
-
-## Trigger
-
-When the scavengers clearly understand that the raid has failed, their leader orders the retreat.
-
-The exact trigger should remain flexible.
-
-Possible triggers include:
-
-- Roughly half the boarding force being defeated.
-- Their leader being badly wounded.
-- The boarding route becoming compromised.
-- An overwhelming display of power.
-- Successful intimidation.
-- Another reasonable player action.
-
----
-
-## Suggested Performance
-
-One of the scavengers looks around.
-
-At the wounded.
-
-At the party.
-
-At the rapidly collapsing raid.
-
-Then:
-
-> "BACK!"
-
-Nobody immediately understands.
-
-Louder:
-
-> "BACK TO THE SHIP!"
-
-The scavengers disengage.
-
-Some run across the gangplank.
-
-Others grab ropes.
-
-Several drag wounded companions with them.
-
-Someone begins cutting the grappling lines.
-
----
-
-## Player Choice
-
-The party may:
-
-- Allow them to retreat.
-- Continue attacking.
-- Pursue them.
-- Board their vessel.
-- Attempt to capture them.
-- Demand surrender.
-- Negotiate.
-- Do something unexpected.
-
-Let the world respond naturally.
-
----
-
-# Beat 7 - Aftermath
-
-## Purpose
-
-Allow the adrenaline to fall away.
-
-Give the players their first opportunity to process what they have just seen.
-
----
-
-## Scene
-
-The last scavengers retreat.
-
-Their vessel begins pulling away.
-
-The sounds of combat fade.
-
-For the first time since the party reached the deck...
-
-there is quiet.
-
-The endless Void remains beneath them.
-
-The Current continues carrying the passenger vessel towards Port Meridian.
+Transition the conversation from the younger Driftwrights to the person responsible for decisions regarding the Sea Bird.
 
 ---
 
 ## Suggested Narration
 
-> "The last grappling line falls away."
+The workshop carries on around you.
 
-> "The scavenger vessel begins to drift back."
+A pair of Driftwrights carefully manoeuvre a freshly repaired beam across the warehouse.
 
-[Pause]
+Someone calls out.
 
-> "For several seconds..."
+*"Heads!"*
 
-> "...nobody says anything."
+Without hesitation, everyone beneath the beam ducks before returning to their work as though nothing unusual had happened.
 
-Then the ship comes alive again.
+The younger Driftwright you've been speaking with glances further into the workshop.
 
-Crew rush towards damaged railings.
+*"Chief!"*
 
-Guards check the wounded.
+A voice answers from somewhere beyond the Sea Bird.
 
-Passengers cautiously begin emerging from below.
+*"Minute."*
 
-Someone starts gathering discarded weapons.
+The conversation around you continues.
 
-Another crew member simply sits against the railing...
+A hammer strikes.
 
-and breathes.
+Someone laughs.
 
----
+Another worker shakes his head.
 
-## The Captain
+*"He's going to tell you you're holding that backwards..."*
 
-The Captain takes control of the aftermath.
+Almost on cue, the same voice calls across the warehouse.
 
-Their priorities are practical:
+*"You are holding it backwards."*
 
-- Check the passengers.
-- Treat the injured.
-- Assess damage.
-- Ensure the vessel remains safely within the Current.
-- Find out exactly what happened.
+A ripple of laughter spreads through the nearby workers.
 
-The Captain learns what the party did from the guards and crew.
+A moment later...
 
-Do not make a ceremony of it.
+A man steps out from behind the Sea Bird.
 
-A simple acknowledgement is enough.
+Mid-forties.
 
-> "You helped my people."
+Broad shouldered.
 
-[Pause]
+Sleeves rolled above his forearms.
 
-> "Thank you."
+His shirt is marked with sawdust and old varnish.
 
----
+A small splinter of wood rests between his teeth as he chews thoughtfully.
 
-## The Void
+He wipes his hands on an old cloth before looking over the party.
 
-If the players finally have time to look around:
+His eyes pause briefly on the Governor's token.
 
-Let them.
+Then he smiles.
 
-This is their first opportunity to observe the Void without someone swinging a weapon at them.
+*"Well..."*
 
-Do not rush this moment.
+A beat.
 
-The raid interrupted their first glimpse of Aetheris.
+*"You're either here to buy something..."*
 
-Now they can actually take it in.
+He looks past you towards the Sea Bird.
 
----
+Then back again.
 
-# Beat 8 - Port Meridian
-
-## Purpose
-
-Return to the main Session Flow.
-
-Introduce Thomas where he belongs:
-
-On the docks of Port Meridian.
-
----
-
-## Approach
-
-Eventually, Port Meridian appears ahead.
-
-The passenger vessel continues towards the harbour.
-
-Signs of the raid remain visible:
-
-- Damaged railing.
-- Cut ropes.
-- Injured guards.
-- Displaced cargo.
-- Marks left by grappling hooks.
-
-The ship docks.
-
----
-
-## Thomas
-
-Thomas is waiting as part of the normal arrival process.
-
-He is the Dockmaster.
-
-He sees the condition of the vessel immediately.
-
-His attention goes first to the ship and its passengers.
-
-> "What happened?"
-
-The Captain gives him the short version.
-
-Thomas listens.
-
-He looks briefly towards the party when their involvement is mentioned.
-
-Then he gets back to work.
+*"...or make my day complicated."*
 
 ---
 
 ## Director's Notes
 
-This is Thomas's first appearance.
+Arthur should never feel rushed.
 
-He should immediately feel:
+Even while speaking, he continues working.
 
-- Patient.
-- Efficient.
-- Calm.
-- Kind.
-- Busy.
+If a younger Driftwright walks past carrying something incorrectly, Arthur casually corrects them before continuing the conversation.
 
-He does not treat the party like celebrities.
+If someone asks for help, he answers without irritation.
 
-There are injured people to deal with and an arrival to process.
+If something needs lifting, he instinctively lends a hand.
 
----
+The players should quickly realise Arthur isn't respected because he owns the Driftwrights.
 
-## Registration
+He owns the Driftwrights because everyone already respected him.
 
-The normal arrival process continues.
+Allow the players to guide the conversation from here.
 
-The party and other Voidmarked are registered.
+Arthur is patient.
 
-This leads naturally into Edith and the administrative side of Port Meridian.
-
-Meanwhile, the Captain's report begins moving through the proper channels.
+He listens before offering opinions.
 
 ---
 
-# Beat 9 - The Governor Takes Notice
+## Arthur's Mannerisms
+
+- Chews a small splinter of wood while thinking.
+- Frequently wipes sawdust from his hands.
+- Rarely stands still.
+- Constantly notices the work happening around him.
+- Offers advice to younger Driftwrights without stopping the conversation.
+- Looks people in the eye when they speak.
+
+---
+
+## Optional Dialogue
+
+If asked whether he owns the workshop:
+
+*"Aye."*
+
+*"Doesn't stop me from working in it."*
+
+---
+
+If complimented on the workshop:
+
+*"Didn't build it."*
+
+*"Just trying to leave it better than I found it."*
+
+---
+
+If asked about the Sea Bird:
+
+Arthur glances towards the ship before answering.
+
+*"Good ship."*
+
+*"Old..."*
+
+*"Honest..."*
+
+*"Still plenty of life left in her."*
+
+He pats the hull as he walks past.
+
+*"Question is..."*
+
+He looks back at the party.
+
+*"...what do you want with her?"*
+
+
+# Encounter Beat 4 – Negotiation
 
 ## Purpose
 
-Use the raid to explain why this particular group of Voidmarked receives the Governor's attention.
+Allow the players to explain why they have come.
+
+Give Arthur the opportunity to understand their intentions before making any decisions.
+
+Demphasise that Arthur is listening more than he is talking.
+
+The players should feel as though they are trying to earn Arthur's trust rather than simply purchase a ship.
 
 ---
 
-## Scene
+## Suggested Narration
 
-During or shortly after registration, Thomas receives word.
+Arthur waits.
 
-The Governor wants to speak with the six new arrivals who helped defend the vessel.
+He doesn't rush the silence.
 
-Thomas approaches them.
+The sounds of the workshop continue around you.
 
-He does not make the moment dramatic.
+A hammer strikes somewhere overhead.
 
-> "Change of plan."
+Someone laughs.
 
-[Pause]
+Another worker mutters something about measuring twice.
 
-> "Governor wants to see you."
+Arthur simply looks between each of you.
 
-If asked why:
+Waiting.
 
-Thomas glances towards the damaged passenger vessel.
+Whatever brought you here...
 
-> "Captain told us what happened."
-
-A small shrug.
-
-> "Seems somebody thought it was worth mentioning."
+This is your opportunity to explain it.
 
 ---
 
 ## Director's Notes
 
-The party is not being summoned because they are heroes.
+This beat belongs almost entirely to the players.
 
-The raid has simply established that they are:
+Avoid interrupting them.
 
-- Capable.
-- Unusually composed for new arrivals.
-- Willing to act when others were in danger.
-- Potentially useful.
+Arthur is an excellent judge of character.
 
-This makes them interesting to the Governor.
+He is listening for far more than whether they have enough coin.
 
-Nothing more.
+He wants to understand:
+
+- Why they need a ship.
+- Whether they understand the responsibility of owning one.
+- Whether the Sea Bird is actually the right vessel for them.
+
+Allow long pauses.
+
+Arthur is comfortable with silence.
 
 ---
 
-# Transition To Session Flow
+## Arthur's Priorities
 
-Continue into the Governor sequence.
+Arthur naturally wants answers to several questions.
 
-The Governor may briefly acknowledge the incident:
+Not necessarily in this order.
 
-> "I understand your arrival was somewhat eventful."
+- Why do you need a ship?
+- Where are you planning to go?
+- Do you actually know how to sail?
+- Who will look after her?
+- Why should I trust you with one of ours?
 
-Or:
+He is not interrogating the party.
 
-> "Thomas tells me you were useful on the way in."
+He is trying to understand them.
 
-Then move on.
+---
 
-Do not turn the raid into the reason for the missing-island investigation.
+## If the Governor's Token is Presented
 
-The Governor already has that problem.
+Arthur immediately recognises it.
 
-The raid simply gives him a reason to believe these particular people may be capable of helping.
+His expression becomes more thoughtful.
+
+He knows the Governor would not hand his token to just anyone.
+
+This does not guarantee agreement.
+
+It simply guarantees that Arthur takes the conversation seriously.
+
+---
+
+## If the Party Mentions the Missing Island
+
+The atmosphere changes.
+
+Nearby conversations begin to fade.
+
+Several older Driftwrights glance towards Arthur.
+
+A younger worker quietly stops what they're doing to listen.
+
+Arthur says nothing for a few moments.
+
+Finally...
+
+*"You're serious."*
+
+It is not a question.
+
+---
+
+## If the Party Offers to Buy the Sea Bird
+
+Arthur smiles.
+
+*"Everything's got a price."*
+
+He glances back at the Sea Bird.
+
+*"Question is whether selling her makes sense."*
+
+---
+
+## If the Party Offers Work Instead of Coin
+
+Arthur seems genuinely interested.
+
+The younger Driftwrights exchange curious looks.
+
+The older workers remain cautious.
+
+Arthur asks questions.
+
+He does not dismiss the idea.
+
+---
+
+## If the Party Lies
+
+Arthur does not immediately accuse them.
+
+Instead...
+
+He asks another question.
+
+Then another.
+
+He has spent forty years listening to sailors tell stories.
+
+He knows when something doesn't fit.
+
+---
+
+## Optional Dialogue
+
+*"Ships aren't tools."*
+
+*"They're responsibilities."*
+
+---
+
+*"Coin buys timber."*
+
+*"Trust buys ships."*
+
+---
+
+*"Anyone can own a vessel."*
+
+*"Keeping one sailing..."*
+
+*"That's the difficult part."*
+
+---
+
+*"You're asking me to hand over months of work."*
+
+Arthur gently rests a hand against the Sea Bird's hull.
+
+*"Help me understand why I should."*
+
+
+# Encounter Beat 5 – The Decision
+
+## Purpose
+
+This beat determines how the encounter continues.
+
+By now Arthur understands why the party wants the Sea Bird.
+
+Now he must decide whether he is willing to part with her.
+
+Likewise, the party must decide how far they are willing to go to achieve their goal.
+
+This should feel like a crossroads rather than a negotiation reaching its conclusion.
+
+---
+
+## Suggested Narration
+
+Arthur is quiet for a long moment.
+
+His eyes drift back towards the Sea Bird.
+
+Workers continue moving around the workshop as though nothing unusual is happening.
+
+One of the younger Driftwrights pauses briefly to watch.
+
+An older worker quietly nudges him back to his task.
+
+Arthur slowly removes the splinter of wood from his mouth.
+
+He studies it for a moment before slipping it into his pocket.
+
+Then he sighs.
+
+*"You're asking for a lot."*
+
+He turns towards the Sea Bird.
+
+Running a hand gently along one of the freshly repaired planks.
+
+*"She's been part of this place a long time."*
+
+*"Not because she's special..."*
+
+*"Because she's useful."*
+
+He turns back towards the party.
+
+*"If I let her go..."*
+
+*"I need to know she'll be looked after."*
+
+Another pause.
+
+Then...
+
+*"So..."*
+
+*"Convince me."*
+
+---
+
+## Director's Notes
+
+This is the emotional turning point of the encounter.
+
+Arthur is no longer deciding whether to speak with the party.
+
+He is deciding whether to trust them.
+
+Allow the players complete freedom here.
+
+They might:
+
+- explain their goals
+- appeal to Arthur's values
+- offer money
+- offer future work
+- promise repairs
+- promise discoveries
+- negotiate
+- threaten
+- attempt deception
+
+Arthur responds naturally to whatever they present.
+
+There is no correct answer.
+
+---
+
+## Reading Arthur
+
+If the players have been respectful...
+
+Arthur is already leaning towards helping them.
+
+If they have been arrogant...
+
+Arthur becomes cautious.
+
+If they have been threatening...
+
+Arthur becomes firm.
+
+If they have lied...
+
+Arthur quietly begins testing their story.
+
+---
+
+## The Workshop Reacts
+
+The Driftwrights continue working.
+
+But everyone is listening.
+
+Nobody interrupts.
+
+Nobody tells Arthur what to do.
+
+This decision belongs to him.
+
+The younger Driftwrights quietly hope he says yes.
+
+Several of the older workers are far less convinced.
+
+The disagreement is never spoken aloud.
+
+It simply hangs in the air.
+
+---
+
+## Optional Dialogue
+
+*"I've spent half my life keeping ships afloat."*
+
+*"Don't make me regret this one."*
+
+---
+
+*"The Sea Bird isn't the fastest ship in the Void."*
+
+*"She isn't the prettiest either."*
+
+*"But she'll bring you home if you treat her properly."*
+
+---
+
+*"People think ships make captains."*
+
+Arthur smiles faintly.
+
+*"Truth is..."*
+
+*"Captains make ships."*
+
+
+# Encounter Beat 6 – The Outcome
+
+## Purpose
+
+Bring the encounter to a satisfying conclusion based entirely on the party's actions.
+
+The outcome should feel earned.
+
+Whether through negotiation, compromise or conflict, the players should leave believing that the Sea Bird became theirs because of the choices they made.
+
+---
+
+## Suggested Narration
+
+Arthur stands quietly for a long moment.
+
+His eyes travel once more across the Sea Bird.
+
+Fresh timber.
+
+New rigging.
+
+Months of careful work.
+
+He breathes out slowly.
+
+Then looks back at the party.
+
+*"One last question."*
+
+His tone is calm.
+
+Almost conversational.
+
+*"When she breaks..."*
+
+A faint smile appears.
+
+*"And she will..."*
+
+*"Who's fixing her?"*
+
+Allow the party to answer.
+
+Whatever they say...
+
+Arthur studies them for a moment.
+
+Then nods.
+
+Once.
+
+He turns back towards the workshop.
+
+Raises his voice.
+
+*"Right."*
+
+The sounds of the workshop gradually fade.
+
+One by one...
+
+The nearby Driftwrights stop what they're doing.
+
+Not because they've been ordered to.
+
+Because they're listening.
+
+Arthur rests a hand against the Sea Bird.
+
+*"She's got another voyage left in her."*
+
+A quiet smile.
+
+*"Let's make sure she gets it."*
+
+Only now does the workshop begin to move.
+
+One worker heads for the engine.
+
+Another starts removing scaffolding.
+
+Someone fetches heavy chains.
+
+Another begins checking the alignment frame.
+
+Without another word...
+
+Everyone simply knows what needs doing.
+
+---
+
+## Director's Notes
+
+This is the emotional reward for earning Arthur's trust.
+
+Do not rush it.
+
+Allow the players to watch the workshop come alive.
+
+The Driftwrights are not giving away a ship.
+
+They are sending one of their own creations back into the world.
+
+---
+
+## If The Players Chose Combat
+
+Run Combat Encounter 002.
+
+Should the players still prevail...
+
+Arthur survives if possible.
+
+After combat, the Driftwrights refuse to abandon the Sea Bird.
+
+If the players genuinely wish to leave with her, they must either:
+
+- convince the remaining Driftwrights to help,
+- work alongside them repairing the damage,
+- or spend considerable time learning how to prepare her for launch.
+
+The Sea Bird cannot simply be untied and flown away.
+
+The knowledge required to safely launch her belongs to the Driftwrights.
+
+---
+
+## If The Players Attempt Theft
+
+The Sea Bird cannot leave the warehouse.
+
+The magical engine has been removed and the launch process requires specialist knowledge.
+
+Attempting to steal her without preparation quickly becomes obvious.
+
+The encounter naturally shifts into either negotiation or conflict.
+
+---
+
+## If Arthur Refuses
+
+Arthur does not refuse lightly.
+
+If trust cannot be established, he simply says:
+
+*"Not today."*
+
+He explains that the Sea Bird deserves a crew he believes in.
+
+He encourages the party to return after proving themselves.
+
+This outcome should only occur if the party has been openly hostile, dishonest or reckless.
+
+---
+
+## Optional Dialogue
+
+Arthur watches the younger Driftwrights preparing the launch.
+
+*"Funny thing about ships..."*
+
+*"They remember how they're treated."*
+
+---
+
+As the final supports are removed.
+
+*"Look after her..."*
+
+A gentle pat against the hull.
+
+*"...and she'll look after you."*
+
+---
+
+Watching the Sea Bird begin to rise.
+
+*"Go make her worth remembering."*
+
+
+# Encounter Beat 7 – Preparing the Sea Bird
+
+## Purpose
+
+Allow the players to watch the Driftwrights at work.
+
+Show the professionalism, teamwork and pride that defines the Driftwrights.
+
+Reinforce that the Sea Bird is not simply being handed over—it is being entrusted to a new crew.
+
+This beat allows the players to appreciate the amount of work that has gone into preparing the ship for another voyage.
+
+---
+
+## Suggested Narration
+
+Arthur gives a single nod.
+
+No speeches.
+
+No celebrations.
+
+The workshop simply comes alive.
+
+Almost instinctively, every Driftwright knows where to be.
+
+One worker disappears towards the engine room.
+
+Another begins removing sections of scaffolding.
+
+Heavy chains rattle as they are carefully released.
+
+A pair of younger Driftwrights carry freshly varnished railings into place.
+
+The older workers quietly inspect every knot, every bolt and every repaired plank one final time.
+
+Nobody rushes.
+
+Nobody cuts corners.
+
+Every movement has been performed hundreds of times before.
+
+Arthur walks slowly around the Sea Bird.
+
+His fingertips glide across the timber.
+
+He taps a repaired beam with his knuckles.
+
+Listens.
+
+Nods to himself.
+
+Satisfied.
+
+Nearby, the great magical engine is lifted into place by the overhead crane.
+
+Workers guide it carefully with long ropes.
+
+Every adjustment is measured.
+
+Every bolt tightened by hand.
+
+Eventually...
+
+A deep hum begins to build.
+
+Not loud.
+
+Almost gentle.
+
+The ship shivers.
+
+Dust falls from the beams above.
+
+Slowly...
+
+Almost reluctantly...
+
+The Sea Bird becomes weightless.
+
+The great timber supports beneath her are removed one by one.
+
+She settles into the air.
+
+Floating exactly where she was built to be.
+
+For the first time...
+
+She looks alive.
+
+---
+
+## Director's Notes
+
+Allow the players to move freely.
+
+This is an excellent opportunity for roleplay.
+
+Players may:
+
+- Ask Arthur questions.
+- Speak with the younger Driftwrights.
+- Help with preparations.
+- Explore the ship.
+- Meet future recurring NPCs.
+- Reflect on the journey ahead.
+
+Do not rush towards departure.
+
+This moment belongs to the players.
+
+---
+
+## Optional Dialogue
+
+Arthur
+
+*"Listen to her."*
+
+*"Every ship sounds different."*
+
+---
+
+Young Driftwright
+
+*"Think they'll actually find it?"*
+
+Another shrugs.
+
+*"Hope so."*
+
+---
+
+Arthur
+
+*"She'll tell you when something's wrong."*
+
+A smile.
+
+*"Usually after you've ignored her twice."*
+
+
+# Encounter Beat 8 – The Launch Bell
+
+## Purpose
+
+Mark the official transfer of ownership.
+
+Introduce the Launch Bell tradition.
+
+Give the players a memorable emotional conclusion to their first encounter with the Driftwrights.
+
+---
+
+## Suggested Narration
+
+The Sea Bird now floats effortlessly above the launch platform.
+
+Only the heavy mooring lines still hold her in place.
+
+The workshop has become strangely quiet.
+
+One by one...
+
+The Driftwrights stop what they are doing.
+
+No one speaks.
+
+Arthur walks towards an old bronze bell hanging beside the launch platform.
+
+Its surface is worn smooth from decades of use.
+
+A thick rope hangs beneath it.
+
+One of the younger Driftwrights offers Arthur the rope.
+
+Arthur reaches out...
+
+...then pauses.
+
+Instead...
+
+He turns towards the party.
+
+His eyes settle on the member of the group who has earned his respect most during today's events.
+
+Without explanation...
+
+He offers them the rope.
+
+The warehouse remains silent.
+
+Waiting.
+
+---
+
+## Director's Notes
+
+Do not explain the tradition immediately.
+
+Allow the players to decide whether to ring the bell.
+
+If they hesitate, Joshua quietly smiles.
+
+*"Go on."*
+
+*"She's yours now."*
+
+Once the bell rings...
+
+Every Driftwright pauses for only a few seconds.
+
+Some smile.
+
+Some simply nod.
+
+Then...
+
+Without ceremony...
+
+Everyone quietly returns to work.
+
+Another ship already waits.
+
+---
+
+## Suggested Narration (Bell)
+
+The bell rings.
+
+A single deep note.
+
+It rolls through the warehouse.
+
+Out across the docks.
+
+And into the endless sky beyond.
+
+For just a moment...
+
+Everything stops.
+
+Then...
+
+Life carries on.
+
+The Sea Bird is gently guided towards the edge of the launch platform.
+
+The final mooring line is released.
+
+Arthur rests a hand against the hull one last time.
+
+*"Look after her."*
+
+A small smile.
+
+*"She'll do the same for you."*
+
+The Sea Bird slowly glides out across the Void.
+
+Your ship.
+
+Your crew.
+
+Your journey.
+
+Begins.
+
+---
+
+## Director's Notes
+
+This beat should end the encounter.
+
+Allow a few moments of silence before returning to the Session Flow.
+
+The Launch Bell is not a celebration.
+
+It is a farewell.
+
+The Driftwrights do not cheer.
+
+They simply acknowledge another ship beginning another voyage.
+
+To them...
+
+This is the best part of the job.
+
