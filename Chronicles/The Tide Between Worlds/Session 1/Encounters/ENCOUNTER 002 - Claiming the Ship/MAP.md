@@ -1,4 +1,4 @@
-# Encounter 001 – Map Design
+# Encounter 002 – Map Design
 
 > "The Driftwright Warehouse is a working shipyard first and an encounter location second."
 

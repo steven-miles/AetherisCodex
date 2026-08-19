@@ -1,4 +1,4 @@
-# Encounter 001 - Creatures
+# Encounter 002 - Creatures
 
 > "The Driftwrights are not villains.
 >

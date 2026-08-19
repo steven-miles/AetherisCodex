@@ -1,4 +1,4 @@
-# Encounter 001 - Loot
+# Encounter 002 - Loot
 
 > "The Sea Bird is the reward.
 >

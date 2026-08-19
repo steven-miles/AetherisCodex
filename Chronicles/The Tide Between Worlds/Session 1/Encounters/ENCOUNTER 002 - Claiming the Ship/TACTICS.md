@@ -1,4 +1,4 @@
-# Encounter 001 - Tactics
+# Encounter 002 - Tactics
 
 > "The Driftwrights are craftsmen first and combatants only when they have no other choice."
 

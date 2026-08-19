@@ -1,4 +1,4 @@
-# Encounter 001 - Consequences
+# Encounter 002 - Consequences
 
 > "The people of Aetheris remember."
 

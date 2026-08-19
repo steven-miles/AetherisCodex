@@ -14,7 +14,11 @@
 
 Introduce confusion, safety and curiosity.
 
-The players should feel that something impossible has happened, but the people around them treat it as an ordinary morning.
+The players should feel that something impossible has happened.
+
+They have no idea where they are or how they arrived here.
+
+Do not overwhelm them with answers.
 
 ---
 
@@ -28,7 +32,7 @@ Confusion → Safety → Curiosity
 
 The players have been unconscious for roughly twelve hours, though they do not know this.
 
-They wake in the dim hold of a passenger vessel near Port Meridian.
+They wake in the dim hold of a passenger vessel travelling towards Port Meridian.
 
 Around twenty people of all ages are packed inside.
 
@@ -39,6 +43,8 @@ The arrivals are random.
 The vessel smells of timber, food, rum and an unfamiliar scent from the magical engine.
 
 Faint rays of morning light pass through gaps in the hull.
+
+Members of the crew move between the passengers.
 
 ---
 
@@ -96,7 +102,7 @@ Faint rays of morning light pass through gaps in the hull.
 
 Allow the players to react.
 
-Above:
+Nearby, a crew member notices.
 
 > "They're coming around."
 
@@ -104,41 +110,28 @@ Another voice:
 
 > "Good."
 
-> "We'll be docking shortly."
+The crew do not have answers to everything.
 
-A hatch opens.
-
-Bright light spills in.
-
-A uniformed dock escort waits while people adjust.
-
-He counts everyone.
-
-> "Morning."
-
-[Pause]
-
-> "Watch your footing coming up."
+To them, new arrivals are unusual but understood.
 
 ---
 
-## Resident Focus
+## Captain Vex Sterling
 
-### Player View
+Captain Vex Sterling commands the passenger vessel.
 
-A dock escort.
+Vex does not need a major introduction.
 
-### DM View
+If the players ask who is in charge, they may learn the Captain's name.
 
-Thomas.
+Vex is:
 
-Only reveal his name if asked.
+- competent
+- practical
+- experienced
+- focused on reaching Port Meridian safely
 
-Patient.
-
-Efficient.
-
-Kind.
+Vex is not intended to become a recurring character.
 
 ---
 
@@ -156,37 +149,227 @@ Let the player define it.
 
 ---
 
-## Transition
+## Player Questions
 
-Thomas leads the group toward the deck.
+Let the players ask questions.
+
+The crew can provide basic information where appropriate.
+
+Do not turn the opening into a lore lecture.
+
+The players have barely begun to understand their situation.
+
+Then—
+
+**BANG.**
 
 ---
 
-# Beat 2 — First Steps
+## Transition
+
+The ship suddenly lurches.
+
+Something heavy has struck the vessel.
+
+Shouting begins above deck.
+
+Move into Encounter 001.
+
+---
+
+# Beat 2 — Raid on the Current
 
 ## Director's Intent
 
-Reveal Aetheris through discovery.
+Give the players an immediate opportunity to discover what their characters can do.
 
-Guide attention naturally rather than telling players what to notice.
+Reveal the Void during danger rather than exposition.
+
+Establish that combat in Aetheris does not necessarily end with everyone on one side dying.
 
 ---
 
 ## Emotional Journey
 
-Curiosity → Disbelief → Wonder → Overwhelm → Belonging
+Curiosity → Alarm → Shock → Action → Triumph → Wonder
 
 ---
 
 ## Scene
 
-The gangplank is old oak.
+A group of desperate scavengers has attacked the passenger vessel.
+
+They have heard rumours that people arriving from other worlds sometimes carry strange and valuable possessions.
+
+They expect frightened passengers.
+
+They do not expect six Level 5 adventurers.
+
+---
+
+## The Call For Help
+
+The hatch opens.
+
+A member of the ship's guard appears.
+
+> "Boarders!"
+
+They look towards the crew.
+
+> "Get everyone below!"
+
+Then towards the new arrivals.
+
+> "If any of you know how to handle yourselves..."
+
+Another crash sounds above.
+
+> "...we could use the help."
+
+Then:
+
+> "Otherwise, stay down here."
+
+The players choose what they do.
+
+Nobody orders them to fight.
+
+---
+
+## First Sight Of The Void
+
+When the party reaches the deck, reveal the battlefield.
+
+A second vessel hangs alongside theirs.
+
+Grappling ropes connect the ships.
+
+A crude gangplank bridges the gap.
+
+Scavengers are already boarding.
+
+Then let the players notice what lies beneath them.
+
+> "Beyond the ships..."
+
+[Pause]
+
+> "...there is no ocean."
+
+Long pause.
+
+> "There is no water at all."
+
+> "Beneath both vessels..."
+
+> "...an endless black Void stretches away beneath the world."
+
+Before they have time to fully process it, another scavenger swings across.
+
+Roll initiative.
+
+---
+
+## Running The Encounter
+
+Use:
+
+`Encounter 001 - Raid on the Current`
+
+The encounter documentation contains:
+
+- encounter flow
+- creatures
+- tactics
+- map
+- loot
+- consequences
+
+The scavengers retreat when they realise the raid has failed.
+
+They do not fight to the death.
+
+Allow:
+
+- combat
+- intimidation
+- surrender
+- boarding
+- environmental creativity
+- capture
+- unexpected solutions
+
+The players are testing their characters.
+
+Let them be powerful.
+
+---
+
+## Aftermath
+
+Once the encounter ends:
+
+- the injured are treated
+- the crew assess the damage
+- Captain Vex gathers information
+- the passenger vessel continues towards Port Meridian
+
+If the players helped, Vex learns what they did.
+
+If they behaved unusually, Vex remembers that too.
+
+Do not rush immediately into the next scene.
+
+The party has just seen the Void for the first time.
+
+Give them time to look.
+
+---
+
+## Transition
+
+Port Meridian eventually appears ahead.
+
+The damaged passenger vessel approaches the harbour.
+
+---
+
+# Beat 3 — First Steps
+
+## Director's Intent
+
+Introduce Port Meridian as a functioning city rather than a fantasy set waiting for the players.
+
+Introduce Thomas where he belongs:
+
+On the docks.
+
+The players have already seen the impossible.
+
+Now show them that Aetheris considers the impossible ordinary.
+
+---
+
+## Emotional Journey
+
+Wonder → Overwhelm → Curiosity → Belonging
+
+---
+
+## Scene
+
+The passenger vessel enters Port Meridian.
+
+The harbour is enormous and busy.
 
 The dock is clean but worn.
 
 Bright orange clamps hold ships in place.
 
 Colourful national flags break up the otherwise practical harbour.
+
+Ships arrive and depart along established Currents.
 
 The city is huge.
 
@@ -198,33 +381,65 @@ Important places remain beyond the horizon.
 
 ## Suggested Performance
 
-> "The morning sun catches your eyes as you step out onto the deck."
+> "Port Meridian grows larger ahead of you."
+
+> "Docks stretch along the island's edge."
+
+> "Ships of different sizes move between them."
+
+> "Bells ring."
+
+> "Engines hum."
+
+> "Ropes tighten."
+
+> "People shout instructions across the harbour."
 
 [Pause]
 
-> "Above you..."
+> "And beneath all of it..."
 
-> "Blue sky."
+> "...the Void."
 
-> "Clouds drifting lazily overhead."
+The impossible sight from moments earlier is simply part of everyday life here.
 
-> "For just a moment..."
+---
 
-> "Everything feels almost normal."
+# Thomas
 
-Let them react.
+Thomas is the Dockmaster.
 
-The harbour is loud:
+This is his first appearance.
 
-bells, gull-like birds, laughter, hammers, ropes, engines and conversation.
+He is:
 
-Then a deep harbour bell rings.
+- patient
+- efficient
+- kind
+- practical
+- busy
 
-A nearby ship begins to depart.
+He sees the condition of Captain Vex's vessel immediately.
 
-Thomas raises a hand.
+> "What happened?"
 
-> "Hold a moment."
+Captain Vex gives him the short version.
+
+If the party helped during the raid, their involvement is mentioned.
+
+Thomas looks towards them.
+
+He does not make a ceremony of it.
+
+There are injured people and a damaged vessel to deal with.
+
+---
+
+## Harbour Tradition
+
+A nearby ship may prepare to depart.
+
+A deep harbour bell rings.
 
 Children wave.
 
@@ -232,31 +447,17 @@ Parents wave too.
 
 Crew salute the engine.
 
-The ship catches the Current.
+The ship catches the Current and moves away across the Void.
 
-If the players follow it with their eyes:
+Thomas may briefly pause to acknowledge the departure before returning to work.
 
-> "...and beyond the ship..."
-
-[Pause]
-
-> "...there is no sea."
-
-[Pause]
-
-> "Only an endless black Void stretching beneath the world."
-
-Stop speaking.
-
-Let them react.
-
-Then:
-
-> "Governor's expecting you."
+This helps establish that departure rituals are part of Meridian life before the players eventually experience their own.
 
 ---
 
 ## Registration
+
+Thomas directs the new arrivals through the normal registration process.
 
 Clerks ask:
 
@@ -296,19 +497,62 @@ Then both continue working.
 
 ---
 
-## Transition
+## The Party's Arrival Report
 
-The group is guided toward the Governor.
+Meanwhile, Captain Vex's account of the raid begins moving through the proper channels.
+
+What the report says depends on what actually happened.
+
+The party may be described as:
+
+- helpful
+- capable
+- restrained
+- dangerous
+- uninvolved
+- something else entirely
+
+Do not decide this before the encounter.
 
 ---
 
-# Beat 3 — The Governor
+## Transition
+
+During or shortly after registration, Thomas receives word.
+
+He approaches the group.
+
+> "Change of plan."
+
+[Pause]
+
+> "Governor wants to see you."
+
+If asked why:
+
+Thomas glances towards Captain Vex's damaged vessel.
+
+> "Captain told us what happened."
+
+A small shrug.
+
+> "Seems somebody thought it was worth mentioning."
+
+The group is guided towards the Governor.
+
+---
+
+# Beat 4 — The Governor
 
 ## Director's Intent
 
 Provide clarity without removing mystery.
 
 The Governor shares a burden, not a quest.
+
+The raid explains why the party has attracted his attention.
+
+It does not create his problem.
 
 ---
 
@@ -350,9 +594,25 @@ Then:
 
 [Pause]
 
+He may acknowledge their arrival:
+
+> "I understand your journey into Meridian was somewhat eventful."
+
+Or:
+
+> "Thomas tells me you were useful on the way in."
+
+Do not dwell on it.
+
+Then:
+
 > "I imagine you have questions."
 
 Let the players drive.
+
+---
+
+## Questions About Aetheris
 
 Useful phrases:
 
@@ -360,7 +620,13 @@ Useful phrases:
 
 > "Our best understanding..."
 
+The Governor should provide what is reasonably known without explaining every mystery of the setting.
+
 When the conversation slows, he goes to a map.
+
+---
+
+## The Missing Island
 
 > "There is something I haven't told the public."
 
@@ -398,6 +664,8 @@ He cannot send a major official expedition without attracting attention.
 
 The players are already looking for answers.
 
+They have also demonstrated that they may be capable of looking after themselves.
+
 Their interests align.
 
 > "If I were standing where you are..."
@@ -426,11 +694,11 @@ The Governor returns to work.
 
 A hand gesture sends someone else to escort the group out.
 
-For the first time, nobody is telling them where to go.
+For the first time since arriving in Aetheris, nobody is telling them where to go.
 
 ---
 
-# Beat 4 — Loose Ends
+# Beat 5 — Loose Ends
 
 ## Director's Intent
 
@@ -502,11 +770,11 @@ She has simply always been there.
 
 ## Transition
 
-Beat 4 ends when the players begin actively working out how to reach the missing island.
+Beat 5 ends when the players begin actively working out how to reach the missing island.
 
 ---
 
-# Beat 5 — Finding a Way Forward
+# Beat 6 — Finding a Way Forward
 
 ## Director's Intent
 
@@ -580,7 +848,7 @@ Dreams of becoming a navigator.
 
 More specifically, he wants people to sail a Current because he discovered it.
 
-He can point the players toward possible ships.
+He has worked with the Driftwrights before.
 
 A mundane first meeting is best.
 
@@ -596,44 +864,39 @@ If asked about ships:
 
 > "Depends what sort of ship you're after."
 
----
-
-## Paths Toward a Ship
-
-Depending on where the players go:
-
-- spare old merchant ship
-- scavenger-held vessel
-- gang-controlled ship
-- owner willing to trade it for money, work or a favour
-
-Possible solutions:
-
-money, persuasion, work, favours, intimidation, theft, negotiation or combat.
+Joshua can point the party towards the Driftwrights.
 
 ---
 
-## Underworld
+## The Driftwrights
 
-Do not undermine Meridian's safety.
+The Driftwrights deal with ships nobody else wants.
 
-The underworld is a layer beneath the city, not its true face.
+They perform the dirty, difficult work around Meridian's vessels while maintaining their own code.
 
-Someone may say:
+They have an old merchant ship that might suit the party.
 
-> "If you're looking for a ship nobody will miss..."
+The ship is currently called:
 
-> "...try below."
+**The Sea Bird.**
+
+It is spare.
+
+It still sees occasional use.
+
+It needs work.
+
+But it can sail.
 
 ---
 
 ## Transition
 
-Beat 5 ends when the players identify a realistic ship they might acquire.
+Beat 6 ends when the players decide to investigate the Sea Bird and follow Joshua's direction towards the Driftwrights.
 
 ---
 
-# Beat 6 — Claiming the Ship
+# Beat 7 — Claiming the Sea Bird
 
 ## Director's Intent
 
@@ -641,25 +904,53 @@ Give the players ownership.
 
 This beat is about earning a ship, not winning a fight.
 
+Use:
+
+`Encounter 002 - Claiming the Ship`
+
 ---
 
-## Ship
+## Arrival
+
+Joshua knows the Driftwrights and can help point the party in the right direction.
+
+He does not negotiate for them.
+
+This is their problem to solve.
+
+The Driftwrights own the Sea Bird.
+
+Arthur ultimately decides what happens to it.
+
+---
+
+## The Sea Bird
 
 An old merchant vessel.
 
 Nothing glamorous.
 
-Cracked hull.
+Repairable cracked hull.
 
-Repairable.
+Large enough to grow with the party.
 
-The players can upgrade it over the Chronicle until it becomes special because of them.
+With investment and modification, it can eventually support:
+
+- a crew of around twenty
+- weapons
+- cargo
+- upgraded systems
+- whatever else the players choose to make of it
+
+Right now:
+
+It is simply an old ship.
 
 ---
 
 ## History
 
-Long ago, the ship belonged to a pirate who was then a nobody.
+Long ago, the Sea Bird belonged to a pirate who was then a nobody.
 
 They later became legendary.
 
@@ -667,46 +958,38 @@ They lost this ship early in their career while gambling.
 
 Do not let that history overshadow the players.
 
----
-
-## Current Ownership
-
-Could be:
-
-- scavengers
-- a gang
-- a legitimate owner who considers it spare
+The Sea Bird becomes important because of what **they** do with it.
 
 ---
 
-## Combat
+## Arthur
 
-If combat happens, it is over ownership.
+Arthur owns and leads the Driftwrights.
 
-The opponents are not cartoon villains.
+He recognises the Governor's token.
 
-Non-lethal solutions are valid.
+He does not simply hand over the Sea Bird because of it.
 
----
+Possible solutions include:
 
-## Non-Combat Solutions
+- money
+- persuasion
+- work
+- promises
+- appealing to the greater good
+- earning the Driftwrights' respect
+- combat if the situation deteriorates
+- something unexpected
 
-- buy it
-- convince the owner
-- promise work
-- trade a favour
-- negotiate
-- sneak
-- steal
-- earn respect
-
-Do not punish clever solutions.
+Use the Encounter 002 documentation.
 
 ---
 
 ## Naming
 
-The ship already has a name.
+The ship is called:
+
+**The Sea Bird.**
 
 Renaming ships is considered bad luck.
 
@@ -730,27 +1013,35 @@ Let it be earned.
 
 ## Transition
 
-The ship is theirs.
+The Sea Bird becomes theirs.
 
-The hull is repaired enough for a first voyage.
+The cracked hull is repaired enough for a first voyage.
 
 ---
 
-# Beat 7 — First Departure
+# Beat 8 — First Departure
 
 ## Director's Intent
 
 End Session 1 with possibility.
 
-The players should finish excited for the next island.
+The players should finish excited for the next island and the adventure ahead.
 
 ---
 
-## Preparing to Leave
+## Preparing To Leave
+
+The Sea Bird cannot operate entirely by six inexperienced newcomers.
 
 A small temporary crew helps them safely leave Meridian.
 
-Possible helpers include hired sailors or smugglers whose respect they earned.
+Possible helpers include:
+
+- hired sailors
+- navigators
+- workers
+- people whose respect they earned
+- others willing to take a chance on the voyage
 
 Every player should have something to do.
 
@@ -766,17 +1057,49 @@ He checks something practical.
 
 Then returns to work.
 
+No speech.
+
+No ceremony centred on the party.
+
+Meridian has ships leaving every day.
+
 ---
 
 ## Joshua
 
 Joshua comes to see them off.
 
+He is genuinely excited.
+
 He tells one of the players:
 
 > "Captain rings it."
 
 Now the party has to decide who the captain is.
+
+Joshua waves goodbye when they depart.
+
+---
+
+## The Launch Bell
+
+The ship's bell marks departure.
+
+When the Captain rings it:
+
+People nearby recognise what is happening.
+
+Some pause.
+
+Some wave.
+
+Some barely notice.
+
+For the players, however, it marks something important.
+
+They arrived as passengers.
+
+They leave with a ship.
 
 ---
 
@@ -794,13 +1117,13 @@ Lean into it.
 
 The bell rings.
 
-People pause.
+The clamps release.
+
+The Sea Bird moves away from Port Meridian.
 
 Joshua waves.
 
-The clamps release.
-
-The ship moves away.
+The city slowly begins to shrink behind them.
 
 ---
 
@@ -820,6 +1143,10 @@ Lookout.
 
 Everyone helps.
 
+They are not experienced sailors yet.
+
+Let that show.
+
 ---
 
 ## Rookie Captain Mistake
@@ -828,17 +1155,17 @@ Rookie captains often forget to slow before engaging the magical anchor.
 
 Instead of a smooth stop:
 
-SCREECH.
+**SCREECH.**
 
 A violent halt.
 
 Experienced sailors know the sound immediately.
 
-Keep this as a recurring joke.
+Keep this as a recurring joke if it lands at the table.
 
 ---
 
-## Entering the Current
+## Entering The Current
 
 After around thirty minutes, they reach the Current.
 
@@ -858,9 +1185,13 @@ Edith is processing someone else.
 
 The Governor is still buried in paperwork.
 
+Arthur and the Driftwrights have returned to their work.
+
 Joshua is a small figure on the dock.
 
-Ahead, a distant island silhouette appears.
+Ahead:
+
+A distant island silhouette.
 
 They do not reach it.
 

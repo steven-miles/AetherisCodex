@@ -1,4 +1,4 @@
-# Encounter 001 – Claiming the Ship
+# Encounter 002 – Claiming the Ship
 
 ## Purpose
 
