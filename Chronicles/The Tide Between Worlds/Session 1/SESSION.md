@@ -30,13 +30,11 @@ Run:
 
 This is the first guaranteed combat opportunity of the Chronicle.
 
-Designed for:
+Encounter balance is determined by the party-specific variant.
 
-**6 Level 5 Characters**
+Before running the encounter, use the appropriate file in:
 
-Target difficulty:
-
-**Easy**
+`Encounters/ENCOUNTER 001 - Raid on the Current/Variants/`
 
 The purpose is to:
 
@@ -45,6 +43,7 @@ The purpose is to:
 - reveal the Void
 - establish morale and retreat
 - allow player creativity
+
 
 ### Player Participation
 
