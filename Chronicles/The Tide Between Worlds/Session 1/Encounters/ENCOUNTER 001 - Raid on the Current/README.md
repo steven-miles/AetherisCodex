@@ -18,7 +18,7 @@ They decide to raid the vessel.
 
 They expect frightened passengers.
 
-Instead, they encounter six Level 5 adventurers.
+Instead, they encounter a group of unexpectedly capable new arrivals.
 
 ---
 
@@ -36,6 +36,10 @@ This encounter exists primarily to:
 
 The encounter should feel exciting and dangerous without presenting a serious threat of party defeat.
 
+The narrative purpose remains the same regardless of which party is playing it.
+
+Mechanical balance is handled through party-specific encounter variants.
+
 ---
 
 # Narrative Position
@@ -44,7 +48,7 @@ The encounter occurs during:
 
 **Session 1 - Arrival**
 
-The opening sequence becomes:
+The opening sequence is:
 
 1. The party awakens aboard the passenger vessel.
 2. They begin attempting to understand what has happened.
@@ -114,7 +118,7 @@ The scavengers believe the passengers will surrender their valuables.
 
 **Surprise**
 
-The party demonstrates what six Level 5 adventurers can do.
+The party proves far more capable than the scavengers expected.
 
 ↓
 
@@ -132,6 +136,38 @@ They want to get home alive.
 
 ---
 
+# Party Variants
+
+The narrative encounter is shared between parties.
+
+Mechanical balance changes depending on the group.
+
+## Group 1
+
+**Party Size:** 6  
+**Starting Level:** 5
+
+Use:
+
+`Variants/GROUP_1.md`
+
+This preserves the original encounter balance.
+
+---
+
+## Group 2
+
+**Party Size:** 3  
+**Starting Level:** 3
+
+Use:
+
+`Variants/GROUP_2.md`
+
+This version reduces the number and strength of active enemies while preserving the same narrative scale and encounter purpose.
+
+---
+
 # Encounter Files
 
 ## `ENCOUNTER.md`
@@ -146,11 +182,13 @@ Defines:
 - Retreat behaviour.
 - Aftermath.
 
+This file should remain party-independent.
+
 ---
 
 ## `ENCOUNTER_FLOW.md`
 
-The primary document for running the encounter.
+The primary narrative document for running the encounter.
 
 Contains:
 
@@ -164,28 +202,23 @@ Contains:
 - Introduction of Thomas.
 - Transition to the Governor sequence.
 
+This file should remain party-independent wherever possible.
+
 ---
 
 ## `CREATURES.md`
 
-Contains:
+Contains the shared scavenger creature templates:
 
-- Scavenger Raider stat block.
-- Scavenger Scrapper stat block.
-- Scavenger Boss stat block.
-- Recommended enemy numbers.
-- Passenger guard statistics.
+- Scavenger Raider.
+- Scavenger Scrapper.
+- Scavenger Boss.
+- Passenger guard guidance.
 - Captain Vex Sterling guidance.
 - Environmental DC guidance.
 - Void-fall guidance.
 
-Designed for:
-
-**6 Level 5 Characters**
-
-Target difficulty:
-
-**Easy**
+Party-specific encounter composition and any modified statistics belong in the relevant variant file.
 
 ---
 
@@ -204,6 +237,8 @@ Contains:
 - Player boarding scenarios.
 - Environmental improvisation guidance.
 
+The scavengers' personality and goals remain consistent between groups.
+
 ---
 
 ## `MAP.md`
@@ -212,14 +247,15 @@ Contains:
 
 - Passenger vessel layout.
 - Scavenger vessel layout.
-- Recommended dimensions.
-- Starting positions.
 - Gangplank.
 - Grappling ropes.
 - Rigging.
-- Environmental DCs.
-- Falling guidance.
-- Battlemap design principles.
+- Starting areas.
+- Environmental guidance.
+
+The same battlemap may be used for both groups.
+
+Enemy placement is determined by the relevant party variant.
 
 ---
 
@@ -252,16 +288,19 @@ Contains:
 - Reputation.
 - Post-session canon checklist.
 
+Consequences are recorded separately for each party unless an outcome becomes part of the wider shared world.
+
 ---
 
 # Running The Encounter
 
 Before the session, the DM should primarily review:
 
-1. `ENCOUNTER_FLOW.md`
-2. `CREATURES.md`
-3. `TACTICS.md`
-4. `MAP.md`
+1. The appropriate party variant.
+2. `ENCOUNTER_FLOW.md`
+3. `CREATURES.md`
+4. `TACTICS.md`
+5. `MAP.md`
 
 The remaining files are primarily useful when player actions require them.
 
@@ -308,21 +347,15 @@ The Chronicle continues from the result.
 
 ## Let The Players Be Powerful
 
-This is the players' first opportunity to use their Level 5 characters.
+The raid exists partly to allow players to discover what their characters can do.
 
-If someone destroys several scavengers with one ability:
+The encounter should be balanced for the party running it, but it does not need to last a fixed number of rounds.
+
+If the party ends the raid quickly:
 
 That is not a failed encounter.
 
-If someone crosses between the ships in a spectacular way:
-
-Let the moment matter.
-
-If the party ends the raid far faster than expected:
-
-The scavengers made a terrible mistake.
-
-That is part of the story.
+The scavengers simply made a terrible mistake.
 
 ---
 
@@ -330,7 +363,7 @@ That is part of the story.
 
 After the session:
 
-Update `CONSEQUENCES.md`.
+Update the relevant party's Chronicle state.
 
 Record:
 
@@ -341,15 +374,13 @@ Record:
 - What reached the Governor.
 - Any unexpected changes to the world.
 
-Player choices become canon.
+If an outcome is significant enough to affect both parties, record it as a shared-world event.
 
 ---
 
 # Final Principle
 
 This encounter is not here to determine whether the party is strong enough to begin the Chronicle.
-
-They already are.
 
 It exists to give the players their first opportunity to discover what their characters can do...
 

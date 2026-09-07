@@ -7,84 +7,38 @@
 
 ---
 
-# Encounter Balance
+# Purpose
 
-Designed for:
+This file contains the shared creature templates used in **Raid on the Current**.
 
-**6 Level 5 Characters**
+It does not define:
 
-Difficulty:
+- Party size.
+- Character level.
+- Encounter difficulty.
+- Enemy numbers.
+- Starting positions.
+- Reinforcement limits.
+- Party-specific stat changes.
 
-**Easy**
+Those belong in the appropriate encounter variant.
 
-Purpose:
+Use:
 
-This encounter exists primarily to allow players to test their characters and learn how they work in combat.
+- `Variants/GROUP_1.md`
+- `Variants/GROUP_2.md`
 
-It should feel dangerous without presenting a serious risk of a total party defeat.
-
-The scavengers rely on numbers and intimidation rather than exceptional combat ability.
-
----
-
-# Recommended Encounter
-
-Begin with:
-
-- 1 Scavenger Boss
-- 6 Scavenger Raiders
-- 2 Scavenger Scrappers
-
-**9 hostile creatures total**
-
-Not every scavenger needs to begin on the passenger vessel.
-
-Suggested starting positions:
-
-### Passenger Vessel
-
-- 3 Scavenger Raiders
-- 1 Scavenger Scrapper
-
-### Gangplank / Crossing
-
-- 2 Scavenger Raiders
-
-### Scavenger Vessel
-
-- Scavenger Boss
-- 1 Scavenger Raider
-- 1 Scavenger Scrapper
-
-This allows the battle to visually appear larger without surrounding the party with nine enemies immediately.
-
----
-
-# Reinforcements
-
-Do not automatically add reinforcements.
-
-Several additional scavengers can be visible aboard the second vessel.
-
-They are:
-
-- Holding the ships together.
-- Preparing escape routes.
-- Searching stolen cargo.
-- Controlling their vessel.
-- Watching the fight.
-
-They exist primarily to make the raid feel larger.
-
-If the players are completely dominating the encounter and everyone is enjoying the battle, one or two may join.
-
-If the party is struggling, they remain aboard their ship.
+The scavengers' personalities, motivations and general combat behaviour remain consistent between groups.
 
 ---
 
 # Scavenger Raider
 
 *Medium Humanoid*
+
+Scavenger Raiders make up most of the boarding party.
+
+They rely on numbers, intimidation and aggression rather than exceptional combat ability.
 
 ---
 
@@ -137,6 +91,8 @@ Raiders are confident while they believe they have control.
 Once seriously injured or clearly outmatched, they attempt to retreat.
 
 They do not attack unconscious creatures.
+
+They are thieves and scavengers, not executioners.
 
 ---
 
@@ -198,6 +154,8 @@ They are intimidating rather than bloodthirsty.
 
 When retreat is called, they attempt to ensure others escape before following.
 
+They do not attack unconscious creatures.
+
 ---
 
 # Scavenger Boss
@@ -209,6 +167,10 @@ The Boss organised the raid.
 They expected an easy score.
 
 They are rapidly beginning to regret that decision.
+
+This is the standard Scavenger Boss template.
+
+Party-specific variants may replace or modify this stat block where required.
 
 ---
 
@@ -268,25 +230,46 @@ They know when things are going badly.
 
 ---
 
-# Scavenger Morale
+## Behaviour
+
+The Boss begins confident.
+
+Their priorities are:
+
+1. Control the raid.
+2. Secure valuables.
+3. Prevent the boarding party from panicking.
+4. Escape when the raid clearly fails.
+
+The Boss should never behave like a villain making a final stand.
+
+If survival becomes more important than loot, they abandon the raid.
+
+---
+
+# Shared Scavenger Morale
 
 The scavengers should not fight to the death.
 
-Begin considering retreat when any of the following occurs:
+Exact retreat thresholds may differ between party variants.
 
-- 4 scavengers are defeated.
-- The Boss falls below half hit points.
-- The Boss is defeated.
-- The party demonstrates overwhelming power.
+Regardless of group, retreat becomes appropriate when:
+
+- The raid has obviously failed.
+- The Boss is badly injured or defeated.
 - The scavenger vessel becomes threatened.
 - Their escape route becomes endangered.
+- The party displays overwhelming power.
 - The players successfully intimidate them.
+- Continuing the fight no longer makes sense.
 
-The DM does not need to wait for one of these exact conditions.
+The DM does not need to wait for a specific mechanical trigger.
 
 If the raid has obviously failed:
 
 **Call the retreat.**
+
+Party-specific guidance belongs in the appropriate variant file.
 
 ---
 
@@ -307,6 +290,25 @@ They heard rumours that people from other worlds were arriving with unusual poss
 They thought the passengers would be easy targets.
 
 They were wrong.
+
+Surrender is genuine unless events at the table give the DM a reason to establish otherwise.
+
+---
+
+# Unconscious Characters
+
+The scavengers do not deliberately attack unconscious player characters.
+
+Their priorities are:
+
+- Escape.
+- Loot.
+- Survival.
+- Protecting their own people.
+
+They have no reason to execute fallen opponents.
+
+Party-specific variants may provide additional safety guidance for smaller groups.
 
 ---
 
@@ -329,6 +331,8 @@ Do not run every guard as a full combatant unless necessary.
 Describe their fighting elsewhere on the deck.
 
 The player characters should remain the focus.
+
+The guards can also explain why additional scavengers are present without requiring every enemy on the map to enter initiative.
 
 ---
 
@@ -383,6 +387,10 @@ Do not increase a DC simply because an idea would significantly help the players
 
 Creative solutions are part of the encounter.
 
+If a clever environmental action effectively removes an enemy from the fight, allow that success to matter.
+
+Do not automatically replace them with another enemy.
+
 ---
 
 # Falling Into The Void
@@ -410,7 +418,7 @@ Do not invent new Void lore during this encounter.
 
 ---
 
-# Running The Encounter
+# Running The Creatures
 
 Keep turns fast.
 
@@ -429,3 +437,34 @@ The Boss should:
 The complexity should come from the players.
 
 Not the enemies.
+
+---
+
+# Party Variants
+
+Before running the encounter, consult the relevant party file.
+
+## Group 1
+
+`Variants/GROUP_1.md`
+
+Uses the standard creature statistics in this file.
+
+---
+
+## Group 2
+
+`Variants/GROUP_2.md`
+
+Uses:
+
+- Standard Scavenger Raiders.
+- A modified Group 2 Scavenger Boss.
+- Reduced active enemy numbers.
+- Earlier morale and retreat guidance.
+
+Where a variant conflicts with this file on encounter balance:
+
+**The variant takes precedence.**
+
+The shared creature behaviour and narrative principles in this file still apply.

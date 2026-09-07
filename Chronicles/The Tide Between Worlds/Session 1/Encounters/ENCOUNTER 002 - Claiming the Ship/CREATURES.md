@@ -7,59 +7,83 @@
 
 ---
 
-# Encounter Balance
+# Purpose
 
-Designed for:
+This file contains the shared creature templates used in **Claiming the Ship**.
 
-**6 Level 5 Characters**
+It does not define:
 
-Combat is:
+- Party size.
+- Character level.
+- Encounter difficulty.
+- Number of active combatants.
+- Escalation thresholds.
+- Party-specific statistical changes.
 
-**Optional**
+Those belong in the appropriate encounter variant.
 
-This encounter is not designed around defeating every Driftwright.
+Use:
 
-If combat occurs, the purpose is to create a believable conflict between the party and a group of people protecting their workplace, their ships and one another.
+- `Variants/GROUP_1.md`
+- `Variants/GROUP_2.md`
 
-The Driftwrights:
+The Driftwrights' personalities, motivations and general behaviour remain consistent between groups.
+
+---
+
+# Shared Combat Philosophy
+
+Combat in this encounter is optional.
+
+The encounter is not designed around defeating every Driftwright present at the Driftwrights' workshop.
+
+If combat occurs, the Driftwrights are people defending:
+
+- Their workplace.
+- Their ships.
+- Their friends.
+- Their livelihood.
+- Arthur.
+
+They:
 
 - Do not fight to the death.
-- Do not attempt to kill the player characters.
+- Do not attempt to kill player characters.
 - Accept surrender.
 - Protect injured allies.
 - Stabilise injured people once it is safe.
 - Stop fighting when continuing no longer serves a purpose.
+- Remain willing to talk after violence begins.
 
-The encounter should remain recoverable through conversation even after violence begins.
+The encounter should remain recoverable through conversation even after initiative has been rolled.
 
 ---
 
-# Running The Driftwrights
+# The Wider Driftwrights
 
-Do not put every Driftwright in the warehouse into initiative.
+Around **15 Driftwrights** may be present in or around the workshop.
 
-Around **15 Driftwrights** may be present in or around the warehouse.
+This is part of the fiction of the location.
 
-Most are:
+It is not an encounter composition.
+
+Most Driftwrights are:
 
 - Working.
 - Watching.
 - Moving equipment.
 - Protecting ships.
-- Staying out of the fight.
+- Moving away from danger.
+- Helping injured people.
 - Getting help if necessary.
 
-Only use enough active combatants to represent the immediate confrontation.
+Do not automatically place every Driftwright into initiative.
 
-Recommended active combatants:
+The number of active combatants is determined by the relevant party variant and by how the situation develops.
 
-- Arthur
-- 4 Driftwright Workers
-- 2 Driftwright Veterans
+If only one player throws a punch:
 
-This is not necessarily the number who must fight.
-
-If only one player throws a punch, the entire warehouse does not instantly draw weapons.
+The entire workshop does not instantly draw weapons.
 
 Let the conflict escalate naturally.
 
@@ -619,3 +643,165 @@ Let them stop fighting.
 And if somebody gets hurt:
 
 They make sure they don't die.
+
+---
+
+# Shared Behaviour
+
+Regardless of party, the Driftwrights respond proportionally to what the players do.
+
+They do not behave like a military unit waiting for permission to attack.
+
+A minor confrontation may involve only one or two people.
+
+A serious threat may draw experienced Driftwrights into the conflict.
+
+A direct attempt to seize or destroy the Sea Bird may provoke a much stronger response.
+
+Exact escalation guidance belongs in the relevant party variant.
+
+---
+
+# Restraint
+
+The Driftwrights prefer ending violence over winning combat.
+
+Where reasonable, they may:
+
+- Grapple.
+- Shove.
+- Block movement.
+- Disarm.
+- Separate combatants.
+- Protect an injured person.
+- Move someone away from a ship.
+- Demand surrender.
+- Attempt to resume conversation.
+
+Damage is not always their best option.
+
+---
+
+# Unconscious Characters
+
+The Driftwrights do not deliberately attack unconscious characters.
+
+Once someone is no longer a threat, they stop treating them as one.
+
+When safe to do so, Driftwrights will stabilise injured people regardless of which side they were fighting on.
+
+---
+
+# Surrender
+
+If the players surrender:
+
+The Driftwrights stop fighting.
+
+They may:
+
+- Disarm them.
+- Separate them.
+- Move injured people somewhere safe.
+- Demand an explanation.
+- Allow Arthur to decide what happens next.
+
+Surrender does not automatically end the possibility of acquiring the Sea Bird.
+
+It changes the conversation.
+
+---
+
+# Driftwright Surrender
+
+The Driftwrights may surrender as well.
+
+Arthur may order everyone to stop if:
+
+- Continuing risks unnecessary deaths.
+- The party clearly controls the situation.
+- The Sea Bird is already lost.
+- Further resistance would achieve nothing.
+- A negotiated solution becomes possible.
+
+The Driftwrights value their people more than their pride.
+
+---
+
+# Negotiation During Combat
+
+Initiative does not prevent conversation.
+
+Arthur and the Driftwrights can respond to:
+
+- Apologies.
+- Offers.
+- Explanations.
+- Threats.
+- Surrender.
+- Promises.
+- Changes of heart.
+
+Combat may return to roleplay at any point.
+
+Do not require one side to be defeated before allowing that transition.
+
+---
+
+# Running The Creatures
+
+Keep their behaviour simple and human.
+
+### Workers
+
+**Protect → Restrain → Create distance**
+
+### Veterans
+
+**Control → Protect → End serious threats**
+
+### Arthur
+
+**Talk → Protect his people → End the conflict**
+
+The complexity should come from the players' decisions.
+
+Not from elaborate enemy tactics.
+
+---
+
+# Party Variants
+
+Before running the encounter, consult the relevant party file.
+
+## Group 1
+
+`Variants/GROUP_1.md`
+
+Uses:
+
+- Standard Driftwright Workers.
+- Standard Driftwright Veterans.
+- Standard Arthur.
+- Larger potential active opposition.
+
+---
+
+## Group 2
+
+`Variants/GROUP_2.md`
+
+Uses:
+
+- Standard Driftwright Workers.
+- Standard Arthur.
+- A modified Group 2 Driftwright Veteran.
+- Reduced active opposition.
+- Slower escalation.
+- Additional safety guidance.
+
+Where a party variant conflicts with this file on encounter balance:
+
+**The variant takes precedence.**
+
+The shared creature behaviour and encounter philosophy in this file still apply.
